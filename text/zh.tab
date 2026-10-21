@@ -1,0 +1,1146 @@
+§###############################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                              Scenario: pak128.Japan+                         #
+#                             Language: zh T Chinese                           #
+#                                Encoding: UTF-8                               #
+#                               Font : m+10r.bdf                               #
+#                            Date Created: 2026/10/20                          #
+#                                                                              #
+#                                   authors:                                   #
+#                          HAYASHIDA Kousei - HayaKoh                          #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#_______________________________menu_text_______________________________________
+#_______________________________選單文本________________________________________
+SLOPETOOLS
+地形創建工具
+RAILTOOLS
+鐵路工具
+MONORAILTOOLS
+單軌工具
+MAGLEVTOOLS
+磁浮工具
+NARROWGAUGETOOLS
+輕型鐵路工具
+ROADTRAFFICTOOLS
+道路交通工具
+SHIPTOOLS
+海洋工具
+AIRTOOLS
+航空航天工具
+SPECIALTOOLS
+專用工具
+LAST_USED
+最近使用的工具
+STATIONSTOOLS
+火車站工具
+RAILSTOOLS
+鐵路工具
+SIGNALTOOLS
+鐵路號誌工具
+CATENARYTOOLS
+接觸網工具
+TRAMSTATIONSTOOLS
+電車站工具
+TRAMRAILSTOOLS
+混合路權軌道工具
+TRAMSIGNALTOOLS
+電車號誌工具
+TRAMCATENARYTOOLS
+電車接觸網工具
+MONORAILSTATIONSTOOLS
+單軌車站工具
+MONORAILRAILSTOOLS
+單軌軌道工具
+MONORAILSIGNALTOOLS
+單軌號誌工具
+MAGLEVSTATIONSTOOLS
+磁浮火車站工具
+MAGLEVRAILSTOOLS
+磁浮軌跡工具
+MAGLEVSIGNALTOOLS
+磁浮號誌工具
+NARROWSTASIONSTOOLS
+輕軌車站工具
+NARROWRAILSTOOLS
+輕型鐵路工具
+NARROWSIGNALTOOLS
+輕軌號誌工具
+NARROWCATENARYTOOLS
+輕軌接觸網工具
+ROADSTOPTOOLS
+路車站工具
+ROADTOOLS
+道路工具
+ROADSIGNTOOLS
+道路標誌工具
+ROADDECOTOOLS
+道路裝飾工具
+PORTBUILDINGSTOOLS
+端口工具
+CANALTOOLS
+運河工具
+CANALDECOTOOLS
+運河裝飾工具
+AIRPORTTOOLS
+機場工具
+AIRWAYTOOLS
+跑道和滑行道工具
+AIRDECOTOOLS
+機場裝飾工具
+#_______________________________program_text____________________________________
+#_______________________________程序文本________________________________________
+%s building %s %s
+%1$s%2$s前%3$s
+%s city %d %s
+%s%d丁目%s
+%s factory %s %s
+%1$s%2$s前%3$s
+#
+#
+player 1
+自由交通
+player 2
+翼運送
+player 3
+疾風急行
+player 4
+燕子汽船
+player 5
+Sunline 光
+player 6
+隼航空
+player 7
+朱雀急便
+player 8
+玄武通運
+player 9
+青龍郵船
+player 10
+白虎電鐵
+player 11
+麒麟高速軌道
+player 12
+浦島渡輪
+player 13
+白雪鐵道
+#_______________________________unnecessary_text________________________________
+#_______________________________多餘的文本______________________________________
+%0_CITY_SYLL
+大
+%1_CITY_SYLL
+小
+%2_CITY_SYLL
+三
+%3_CITY_SYLL
+八
+%4_CITY_SYLL
+上
+%5_CITY_SYLL
+中
+%6_CITY_SYLL
+下
+%7_CITY_SYLL
+新
+%8_CITY_SYLL
+古
+%9_CITY_SYLL
+長
+%A_CITY_SYLL
+廣
+%B_CITY_SYLL
+高
+%C_CITY_SYLL
+豐
+%D_CITY_SYLL
+富
+%E_CITY_SYLL
+德
+%F_CITY_SYLL
+福
+%G_CITY_SYLL
+宮
+%H_CITY_SYLL
+神
+%I_CITY_SYLL
+倉
+%J_CITY_SYLL
+石
+%K_CITY_SYLL
+金
+%L_CITY_SYLL
+米
+%M_CITY_SYLL
+飯
+%N_CITY_SYLL
+熊
+%O_CITY_SYLL
+佐
+%P_CITY_SYLL
+赤
+%Q_CITY_SYLL
+白
+%R_CITY_SYLL
+靑
+%S_CITY_SYLL
+黑
+%T_CITY_SYLL
+松
+%U_CITY_SYLL
+竹
+%V_CITY_SYLL
+梅
+%W_CITY_SYLL
+櫻
+%X_CITY_SYLL
+秋
+%Y_CITY_SYLL
+鶴
+%Z_CITY_SYLL
+龜
+#
+#
+&0_CITY_SYLL
+川
+&1_CITY_SYLL
+瀨
+&2_CITY_SYLL
+澤
+&3_CITY_SYLL
+江
+&4_CITY_SYLL
+井
+&5_CITY_SYLL
+橋
+&6_CITY_SYLL
+別
+&7_CITY_SYLL
+內
+&8_CITY_SYLL
+山
+&9_CITY_SYLL
+岡
+&A_CITY_SYLL
+峰
+&B_CITY_SYLL
+坂
+&C_CITY_SYLL
+谷
+&D_CITY_SYLL
+尾
+&E_CITY_SYLL
+野
+&F_CITY_SYLL
+原
+&G_CITY_SYLL
+部
+&H_CITY_SYLL
+木
+&I_CITY_SYLL
+森
+&J_CITY_SYLL
+津
+&K_CITY_SYLL
+濱
+&L_CITY_SYLL
+浦
+&M_CITY_SYLL
+島
+&N_CITY_SYLL
+崎
+&O_CITY_SYLL
+洲
+&P_CITY_SYLL
+田
+&Q_CITY_SYLL
+村
+&R_CITY_SYLL
+町
+&S_CITY_SYLL
+市
+&T_CITY_SYLL
+戶
+&U_CITY_SYLL
+里
+&V_CITY_SYLL
+屋
+&W_CITY_SYLL
+城
+&X_CITY_SYLL
+見
+&Y_CITY_SYLL
+本
+&Z_CITY_SYLL
+賀
+#
+#
+nord
+北
+nordost
+北東
+nordwest
+北西
+ost
+東
+sued
+南
+suedost
+北東
+suedwest
+南西
+west
+西
+#
+#
+0center
+%1$s%2$s
+1center
+%1$s中央%2$s
+2center
+%1$s町%2$s
+3center
+%1$s本町%2$s
+4center
+%1$s元町%2$s
+5center
+%1$s%2$s町%3$s
+6center
+%1$s府中%2$s
+7center
+%1$s公園%2$s
+8center
+%1$s通%2$s
+9center
+%1$s大通%2$s
+Acenter
+%1$s本通%2$s
+Bcenter
+%1$s%2$s通%3$s
+Ccenter
+%1$s Hills %2$s
+Dcenter
+%1$s商店街%2$s
+Ecenter
+%1$s市場%2$s
+Fcenter
+%1$s工業團地%2$s
+#
+#
+0suburb
+%1$s%2$s
+1suburb
+%2$s%1$s%3$s
+2suburb
+新%1$s%2$s
+3suburb
+上%1$s%2$s
+4suburb
+下%1$s%2$s
+5suburb
+中%1$s%2$s
+6suburb
+%1$s口%2$s
+7suburb
+%1$s%2$s口%3$s
+8suburb
+%1$s緑地%2$s
+9suburb
+%1$s天神%2$s
+Asuburb
+%1$s八幡%2$s
+Bsuburb
+%1$s稻荷%2$s
+Csuburb
+%1$s藥師%2$s
+Dsuburb
+%1$s厄神%2$s
+#
+#
+0extern
+%1$s%2$s%3$s
+1extern
+前%1$s%2$s
+2extern
+外%1$s%2$s
+3extern
+田園%1$s%2$s
+4extern
+%1$s原野%2$s
+#_______________________________good____________________________________________
+#_______________________________貨物____________________________________________
+paletten
+個托盤
+person
+人
+stuck
+個
+tiere
+頭
+crate
+個貨櫃
+m3
+立方公尺
+#
+#
+None
+無
+Passagiere
+旅客
+Beton
+混凝土
+Nutztiere
+家畜
+#
+#
+CATEGORY_11
+拼箱貨物
+catg_Sammelgut
+拼箱貨物
+Alkohol
+酒類
+Baumwolle
+棉花
+Bucher
+書籍
+Druckfarbe
+印刷油墨
+Faser
+纖維
+Gemuse
+蔬菜
+wurzel_Gemuse
+根莖類
+Gewurze
+香料
+Gummi
+橡膠
+Kleidung
+服飾
+Moebel
+家具
+Nusse
+種子類
+Obst
+水果
+kern_Obst
+仁果類
+tropische_Obst
+熱帶果樹
+zitrus_Obst
+柑橘類
+Papier
+紙
+Plastik
+塑膠
+brauner_Reis
+糙米
+weisser_Reis
+白米
+Sojabohnen
+大豆
+Waren
+雜貨
+Wolle
+羊毛
+#
+#
+CATEGORY_12
+冷藏貨物
+catg_Kuhlfracht
+冷藏貨物
+Bento
+便當
+Fischereierzeugnisse
+水產加工品
+blatt_Gemuse
+葉菜類
+frucht_Gemuse
+果蔬類
+Getraenke
+軟性飲料
+Milch
+牛奶
+Milchprodukte
+乳製品
+stein_Obst
+核果類
+Olive
+橄欖
+Trauben
+葡萄
+#
+#
+CATEGORY_13
+冷凍貨物
+catg_Tiefkuehlware
+冷凍貨物
+Fisch
+魚
+Fleisch
+肉
+#
+#
+CATEGORY_14
+小件行李
+catg_Kleinsendungen
+小件行李
+Post
+隨身行李
+Zeitung
+報紙
+#
+#
+CATEGORY_21
+散裝貨物
+catg_Massenladen
+散裝貨物
+Eisenerz
+鐵礦石
+Kohle
+煤炭
+Zement
+水泥
+#
+#
+CATEGORY_22
+粉狀及顆粒狀貨物
+catg_PulverGranulate
+粉狀及顆粒狀貨物
+Holzpane
+木屑
+roh_Reis
+糙米
+Weizen
+麥
+#
+#
+CATEGORY_23
+廢棄物
+catg_Abfall
+廢棄物
+Abfall
+廢棄物
+Sperrmull
+大型廢棄物
+#
+#
+CATEGORY_24
+長型貨物
+catg_Langgut
+長型貨物
+Bretter
+木材
+Holz
+木
+Stahl
+鋼鐵
+#
+#
+CATEGORY_25
+水產品
+catg_Fisch
+水產品
+frischer_Fisch
+鮮魚
+#
+#
+CATEGORY_31
+液態貨物
+catg_Flussiggut
+液態貨物
+Benzin
+汽油
+Chemikalien
+化工產品
+Naphtha
+石腦油
+Oel
+原油
+Schwerol
+重油
+#
+#
+CATEGORY_32
+氣態貨物
+#_______________________________Factory_________________________________________
+#_______________________________產業____________________________________________
+#----Goods Chain
+#----雜貨產業鏈
+jpp_factory_Waren_Gemischtwarenfabrik
+生活雜貨工廠
+jpp_factory_Waren_Gemischtwarenladen
+雜貨店
+#----Paper Chain
+#----造紙產業鏈
+jpp_factory_Papier_Papierfabrik
+造紙廠
+jpp_factory_Papier_Verlag
+出版社
+jpp_factory_Papier_Druckerei
+印刷廠
+jpp_factory_Papier_Buchhandlung
+書店
+#----Chemical Chain
+#----化工產業鏈
+jpp_factory_Chemikalien_chemischeAnlage
+化學工廠
+#----Coal Chain
+#----煤炭產業鏈
+jpp_factory_Kohle_Kohlebergwerk_Schacht
+煤礦
+jpp_factory_Kohle_Kohlebergwerk_1899
+煤礦
+jpp_factory_Kohle_kraftwerk
+燃煤發電廠
+#----Oil Chain
+#----石油產業鏈
+jpp_factory_Oel_Oelfeld
+油田
+jpp_field_Oelpumpe
+抽油泵
+jpp_factory_Oel_Raffinerie
+煉油廠
+jpp_factory_Oel_Tankstelle
+加油站
+#----Iron Chain
+#----鐵產業鏈
+jpp_factory_Eisen_Eisenmine
+鐵礦山
+jpp_factory_Eisen_Stahlwerk
+鋼鐵廠
+#----Waste Chain
+#----廢棄物產業鏈
+jpp_factory_Abfall_Mullabfuhrstation
+垃圾收集站
+jpp_factory_Abfall_Recyclinganlage
+回收工廠
+jpp_factory_Abfall_Recyclinganlage_Sperrmull
+回收工廠
+jpp_factory_Abfall_kraftwerk
+焚化廠
+#----Wood Chain
+#----木材產業鏈
+jpp_factory_Holz_Faellstelle
+伐木場
+jpp_field_Wald
+森
+jpp_factory_wood_Saegewerk
+鋸木廠
+jpp_factory_wood_Moebelfabrik
+家具工廠
+jpp_factory_wood_Moebelhaus
+家具零售商
+jpp_factory_wood_Biomasse_kraftwerk
+生質能發電廠
+#_______________________________Building-Landmark_______________________________
+#_______________________________名勝古蹟________________________________________
+arena
+競技場
+FerrisWheel
+摩天輪
+mon_hru01
+噴泉
+a_cinema
+電影院
+Tsutenkaku128
+通天閣
+Pagoda01
+五重塔
+DenkHachiko128
+八公像
+DenkRyoma128
+坂本龍馬像
+OBSERVATORY
+天文台
+Lighthouse01
+燈塔
+nakanoshimatoshokan
+圖書館
+jpp_cur_Grundschule1
+小學
+#_______________________________Building-City___________________________________
+#_______________________________市内建築物______________________________________
+#----res_128jp
+#----住房（128.japan）
+jpp_res_128jp_Landwirtschaftliche2A
+農業區的房屋
+jpp_res_128jp_NiedrigesGebaeude4A
+低層住宅
+jpp_res_128jp_NiedrigesGebaeude4A
+低層住宅
+jpp_res_128jp_NiedrigesGebaeude4B
+低層住宅
+jpp_res_128jp_NiedrigesGebaeude6A
+低層住宅
+jpp_res_128jp_NiedrigesGebaeude8A
+低層公寓大樓
+jpp_res_128jp_NiedrigesGebaeude8B
+低層公寓大樓
+jpp_res_128jp_NiedrigesGebaeude12A
+低層公寓大樓
+jpp_res_128jp_NiedrigesGebaeude16A
+低層公寓大樓
+jpp_res_128jp_NiedrigesGebaeude16B
+低層公寓大樓
+jpp_res_128jp_NiedrigesGebaeude24A
+低層公寓大樓
+jpp_res_128jp_NiedrigesGebaeude24B
+低層公寓大樓
+jpp_res_128jp_Wohnsiedlung18A
+公園
+jpp_res_128jp_Wohnsiedlung18B
+住宅社區
+jpp_res_128jp_Wohnsiedlung24A
+住宅社區
+jpp_res_128jp_Wohnsiedlung48A
+住宅社區
+jpp_res_128jp_NiedrigesParzelle8A
+低層住宅區
+jpp_res_128jp_NiedrigesParzelle16A
+低層住宅區
+jpp_res_128jp_NiedrigesParzelle18A
+低層住宅區
+jpp_res_128jp_MittlererGebaeude52A
+中層公寓大樓
+jpp_res_128jp_Hochhaus72A
+高層公寓大樓
+jpp_res_128jp_Hochhaus88A
+高層公寓大樓
+jpp_res_128jp_Hochhaus152A
+高層公寓大樓
+jpp_res_128jp_Hochhaus208A
+高層公寓大樓
+#----com_128jp
+#----商業（128.japan）
+jpp_com_128jp_NiedrigesGebaeude4A
+郵局
+jpp_com_128jp_NiedrigesParzelle22A
+購物街
+jpp_com_128jp_MittlererGebaeude15A
+附便利商店的中層公寓大樓
+jpp_com_128jp_MittlererGebaeude19A
+中階郵局
+jpp_com_128jp_MittlererGebaeude29A
+中層銀行大樓
+jpp_com_128jp_MittlererGebaeude29B
+中層辦公大樓
+jpp_com_128jp_MittlererGebaeude40A
+中層商業建築
+jpp_com_128jp_MittlererParzelle23A
+中層辦公大樓群
+jpp_com_128jp_MittlererParzelle32A
+中層辦公大樓群
+jpp_com_128jp_Hochhaus60A
+高層辦公大樓
+jpp_com_128jp_Hochhaus76A
+高層建築
+jpp_com_128jp_Hochhaus88A
+高層建築
+jpp_com_128jp_Hochhaus96A
+高層建築
+#----ind_128jp
+#----工業（128.japan）
+jpp_ind_128jp_NiedrigesGebaeude4A
+運輸公司辦公室
+jpp_ind_128jp_NiedrigesGebaeude12A
+低層工廠
+jpp_ind_128jp_NiedrigesGebaeude18A
+低層工廠
+jpp_ind_128jp_NiedrigesGebaeude27A
+低層工廠
+jpp_ind_128jp_MittlererGebaeude15A
+中層工業建築
+#----713
+#----713先生
+jpp_com_713_NiedrigesGebaeude4A
+超公共浴池
+jpp_res_713_Wohnsiedlung15A
+住宅社區
+jpp_res_713_Wohnsiedlung15B
+水塔
+jpp_res_713_Wohnsiedlung20A
+住宅社區
+jpp_res_713_Wohnsiedlung20B
+住宅社區
+jpp_res_713_Wohnsiedlung30A
+住宅社區
+#----wilson
+#----威爾遜先生
+jpp_com_wilson_Landwirtschaftliche0A
+稻田\n\n該區域計劃進行商業開發。
+jpp_com_wilson_Landwirtschaftliche0B
+場地\n\n該區域計劃進行商業開發。
+jpp_com_wilson_Landwirtschaftliche0C
+休耕地\n\n該區域計劃進行商業開發。
+jpp_com_wilson_Landwirtschaftliche0D
+稻田\n\n該區域計劃進行商業開發。
+jpp_com_wilson_Landwirtschaftliche0E
+場地\n\n該區域計劃進行商業開發。
+jpp_com_wilson_Landwirtschaftliche0F
+休耕地\n\n該區域計劃進行商業開發。
+jpp_com_wilson_Landwirtschaftliche0G
+稻田\n\n該區域計劃進行商業開發。
+jpp_com_wilson_Landwirtschaftliche0H
+場地\n\n該區域計劃進行商業開發。
+jpp_com_wilson_Landwirtschaftliche0I
+休耕地\n\n該區域計劃進行商業開發。
+jpp_ind_wilson_Landwirtschaftliche0A
+稻田\n\n該區域計劃進行工業開發。
+jpp_ind_wilson_Landwirtschaftliche0B
+場地\n\n該區域計劃進行工業開發。
+jpp_ind_wilson_Landwirtschaftliche0C
+休耕地\n\n該區域計劃進行工業開發。
+jpp_ind_wilson_Landwirtschaftliche0D
+稻田\n\n該區域計劃進行工業開發。
+jpp_ind_wilson_Landwirtschaftliche0E
+場地\n\n該區域計劃進行工業開發。
+jpp_ind_wilson_Landwirtschaftliche0F
+休耕地\n\n該區域計劃進行工業開發。
+jpp_ind_wilson_Landwirtschaftliche0G
+稻田\n\n該區域計劃進行工業開發。
+jpp_ind_wilson_Landwirtschaftliche0H
+場地\n\n該區域計劃進行工業開發。
+jpp_ind_wilson_Landwirtschaftliche0I
+休耕地\n\n該區域計劃進行工業開發。
+jpp_res_wilson_Landwirtschaftliche0A
+稻田\n\n該區域計劃進行住宅開發。
+jpp_res_wilson_Landwirtschaftliche0B
+場地\n\n該區域計劃進行住宅開發。
+jpp_res_wilson_Landwirtschaftliche0C
+休耕地\n\n該區域計劃進行住宅開發。
+jpp_res_wilson_Landwirtschaftliche0D
+稻田\n\n該區域計劃進行住宅開發。
+jpp_res_wilson_Landwirtschaftliche0E
+場地\n\n該區域計劃進行住宅開發。
+jpp_res_wilson_Landwirtschaftliche0F
+休耕地\n\n該區域計劃進行住宅開發。
+jpp_res_wilson_Landwirtschaftliche0G
+稻田\n\n該區域計劃進行住宅開發。
+jpp_res_wilson_Landwirtschaftliche0H
+場地\n\n該區域計劃進行住宅開發。
+jpp_res_wilson_Landwirtschaftliche0I
+休耕地\n\n該區域計劃進行住宅開發。
+#_______________________________Building-tow____________________________________
+#_______________________________鄉公所__________________________________________
+yakusho01
+町公所
+01_CITY
+町公所
+jpp_tow_ModernesRathaus1
+市政府
+#_______________________________Road____________________________________________
+#_______________________________路______________________________________________
+jpp_road_Strecke20
+限速20公里/小時的越野
+jpp_road_Strecke30
+限速30公里/小時的越野
+jpp_road_Schotterstrasse30
+限速30公里/小時的碎石路
+jpp_road_Schotterstrasse40
+限速40公里/小時的城市道路
+jpp_road_Schotterstrasse50
+限速50公里/小時的主幹道
+jpp_road_Strasse30
+限速30公里/小時的社區道路
+jpp_road_Strasse40
+限速40公里/小時的城市道路
+jpp_road_Strasse50
+限速50公里/小時的普通道路
+jpp_road_Strasse60
+限速60公里/小時的主幹道
+jpp_road_Strasse70
+限速70公里/小時的高標準道路
+jpp_road_Strasse80
+限速80公里/小時的臨時高速公路
+#_______________________________Roadsign________________________________________
+#_______________________________交通號誌和標誌__________________________________
+jpp_roadsign_Strassenampel1970_links_white
+1970年式左側安裝的交通號誌（白色）
+#_______________________________Vehicle-Track___________________________________
+#_______________________________鐵路車輛________________________________________
+#----JNRPendlerzug1
+#----日本國鐵式通勤列車1
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Spielerfarbe1
+日本國鐵式通勤列車1 四門領頭車A（玩家色1）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Spielerfarbe1
+日本國鐵式通勤列車1 四門領頭車B（玩家色1）
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Spielerfarbe1
+日本國鐵式通勤列車1 四門後車A（玩家色1）
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Spielerfarbe1
+日本國鐵式通勤列車1 四門後車B（玩家色1）
+jpp_zug_JNRPendlerzug1_Zwischen4_Spielerfarbe1
+日本國鐵式通勤列車1 四門中間車（玩家色1）
+jpp_zug_JNRPendlerzug1_Zwischen6_Spielerfarbe1
+日本國鐵式通勤列車1 六門中間車（玩家色1）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Spielerfarbe2
+日本國鐵式通勤列車1 四門領頭車A（玩家色2）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Spielerfarbe2
+日本國鐵式通勤列車1 四門領頭車B（玩家色2）
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Spielerfarbe2
+日本國鐵式通勤列車1 四門後車A（玩家色2）
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Spielerfarbe2
+日本國鐵式通勤列車1 四門後車B（玩家色2）
+jpp_zug_JNRPendlerzug1_Zwischen4_Spielerfarbe2
+日本國鐵式通勤列車1 四門中間車（玩家色2）
+jpp_zug_JNRPendlerzug1_Zwischen6_Spielerfarbe2
+日本國鐵式通勤列車1 六門中間車（玩家色2）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Hellgluen
+日本國鐵式通勤列車1 四門領頭車A（鶯色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Hellgluen
+日本國鐵式通勤列車1 四門領頭車B（鶯色）
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Hellgluen
+日本國鐵式通勤列車1 四門後車A（鶯色）
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Hellgluen
+日本國鐵式通勤列車1 四門後車B（鶯色）
+jpp_zug_JNRPendlerzug1_Zwischen4_Hellgluen
+日本國鐵式通勤列車1 四門中間車（鶯色）
+jpp_zug_JNRPendlerzug1_Zwischen6_Hellgluen
+日本國鐵式通勤列車1 六門中間車（鶯色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Gluen
+日本國鐵式通勤列車1 四門領頭車A（綠色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Gluen
+日本國鐵式通勤列車1 四門領頭車B（綠色）
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Gluen
+日本國鐵式通勤列車1 四門後車A（綠色）
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Gluen
+日本國鐵式通勤列車1 四門後車B（綠色）
+jpp_zug_JNRPendlerzug1_Zwischen4_Gluen
+日本國鐵式通勤列車1 四門中間車（綠色）
+jpp_zug_JNRPendlerzug1_Zwischen6_Gluen
+日本國鐵式通勤列車1 六門中間車（綠色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Smaragd
+日本國鐵式通勤列車1 四門領頭車A（翠綠色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Smaragd
+日本國鐵式通勤列車1 四門領頭車B（翠綠色）
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Smaragd
+日本國鐵式通勤列車1 四門後車A（翠綠色）
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Smaragd
+日本國鐵式通勤列車1 四門後車B（翠綠色）
+jpp_zug_JNRPendlerzug1_Zwischen4_Smaragd
+日本國鐵式通勤列車1 四門中間車（翠綠色）
+jpp_zug_JNRPendlerzug1_Zwischen6_Smaragd
+日本國鐵式通勤列車1 六門中間車（翠綠色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Himmel
+日本國鐵式通勤列車1 四門領頭車A（天藍色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Himmel
+日本國鐵式通勤列車1 四門領頭車B（天藍色）
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Himmel
+日本國鐵式通勤列車1 四門後車A（天藍色）
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Himmel
+日本國鐵式通勤列車1 四門後車B（天藍色）
+jpp_zug_JNRPendlerzug1_Zwischen4_Himmel
+日本國鐵式通勤列車1 四門中間車（天藍色）
+jpp_zug_JNRPendlerzug1_Zwischen6_Himmel
+日本國鐵式通勤列車1 六門中間車（天藍色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Blau
+日本國鐵式通勤列車1 四門領頭車A（藍色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Blau
+日本國鐵式通勤列車1 四門領頭車B（藍色）
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Blau
+日本國鐵式通勤列車1 四門後車A（藍色）
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Blau
+日本國鐵式通勤列車1 四門後車B（藍色）
+jpp_zug_JNRPendlerzug1_Zwischen4_Blau
+日本國鐵式通勤列車1 四門中間車（藍色）
+jpp_zug_JNRPendlerzug1_Zwischen6_Blau
+日本國鐵式通勤列車1 六門中間車（藍色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Gelb
+日本國鐵式通勤列車1 四門領頭車A（黃色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Gelb
+日本國鐵式通勤列車1 四門領頭車B（黃色）
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Gelb
+日本國鐵式通勤列車1 四門後車A（黃色）
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Gelb
+日本國鐵式通勤列車1 四門後車B（黃色）
+jpp_zug_JNRPendlerzug1_Zwischen4_Gelb
+日本國鐵式通勤列車1 四門中間車（黃色）
+jpp_zug_JNRPendlerzug1_Zwischen6_Gelb
+日本國鐵式通勤列車1 六門中間車（黃色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Orange
+日本國鐵式通勤列車1 四門領頭車A（橙色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Orange
+日本國鐵式通勤列車1 四門領頭車B（橙色）
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Orange
+日本國鐵式通勤列車1 四門後車A（橙色）
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Orange
+日本國鐵式通勤列車1 四門後車B（橙色）
+jpp_zug_JNRPendlerzug1_Zwischen4_Orange
+日本國鐵式通勤列車1 四門中間車（橙色）
+jpp_zug_JNRPendlerzug1_Zwischen6_Orange
+日本國鐵式通勤列車1 六門中間車（橙色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Rot
+日本國鐵式通勤列車1 四門領頭車A（紅色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Rot
+日本國鐵式通勤列車1 四門領頭車B（紅色）
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Rot
+日本國鐵式通勤列車1 四門後車A（紅色）
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Rot
+日本國鐵式通勤列車1 四門後車B（紅色）
+jpp_zug_JNRPendlerzug1_Zwischen4_Rot
+日本國鐵式通勤列車1 四門中間車（紅色）
+jpp_zug_JNRPendlerzug1_Zwischen6_Rot
+日本國鐵式通勤列車1 六門中間車（紅色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Brawn
+日本國鐵式通勤列車1 四門領頭車A（棕色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Brawn
+日本國鐵式通勤列車1 四門領頭車B（棕色）
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Brawn
+日本國鐵式通勤列車1 四門後車A（棕色）
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Brawn
+日本國鐵式通勤列車1 四門後車B（棕色）
+jpp_zug_JNRPendlerzug1_Zwischen4_Brawn
+日本國鐵式通勤列車1 四門中間車（棕色）
+jpp_zug_JNRPendlerzug1_Zwischen6_Brawn
+日本國鐵式通勤列車1 六門中間車（棕色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Lila
+日本國鐵式通勤列車1 四門領頭車A（紫色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Lila
+日本國鐵式通勤列車1 四門領頭車B（紫色）
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Lila
+日本國鐵式通勤列車1 四門後車A（紫色）
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Lila
+日本國鐵式通勤列車1 四門後車B（紫色）
+jpp_zug_JNRPendlerzug1_Zwischen4_Lila
+日本國鐵式通勤列車1 四門中間車（紫色）
+jpp_zug_JNRPendlerzug1_Zwischen6_Lila
+日本國鐵式通勤列車1 六門中間車（紫色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Rosa
+日本國鐵式通勤列車1 四門領頭車A（粉紅色）
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Rosa
+日本國鐵式通勤列車1 四門領頭車B（粉紅色）
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Rosa
+日本國鐵式通勤列車1 四門後車A（粉紅色）
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Rosa
+日本國鐵式通勤列車1 四門後車B（粉紅色）
+jpp_zug_JNRPendlerzug1_Zwischen4_Rosa
+日本國鐵式通勤列車1 四門中間車（粉紅色）
+jpp_zug_JNRPendlerzug1_Zwischen6_Rosa
+日本國鐵式通勤列車1 六門中間車（粉紅色）
+#_______________________________Vehicle-Auto____________________________________
+#_______________________________道路車輛________________________________________
+#----BonnetBus1
+#----引擎蓋巴士1
+jpp_auto_BonnetBus1_Spielerfarbe1
+引擎蓋巴士1（玩家色1）
+jpp_auto_BonnetBus1_Spielerfarbe2
+引擎蓋巴士1（玩家色2）
+#----Linienbus1968
+#----1968年式路線巴士
+jpp_auto_Linienbus1968_Spielerfarbe1
+1968年式路線巴士（玩家色1）
+jpp_auto_Linienbus1968_Spielerfarbe2
+1968年式路線巴士（玩家色2）
+#----Linienbus1984
+#----1984年式路線巴士
+jpp_auto_Linienbus1984_Spielerfarbe1
+1984年式路線巴士（玩家色1）
+jpp_auto_Linienbus1984_Spielerfarbe2
+1984年式路線巴士（玩家色2）
+#----Linienbus2000
+#----2000年式路線巴士
+jpp_auto_Linienbus2000_Spielerfarbe1
+2000年式路線巴士（玩家色1）
+jpp_auto_Linienbus2000_Spielerfarbe2
+2000年式路線巴士（玩家色2）
+#----Kleinbus1992
+#----1992年小型巴士
+jpp_auto_Kleinbus1992_Spielerfarbe1
+1992年式小型巴士（玩家色1）
+jpp_auto_Kleinbus1992_Spielerfarbe2
+1992年式小型巴士（玩家色2）
+#----Kleinbus2006
+#----2006年小型巴士
+jpp_auto_Kleinbus2006_Spielerfarbe1
+2006年式小型巴士（長身/玩家色1）
+jpp_auto_Kleinbus2006_Spielerfarbe2
+2006年式小型巴士（長身/玩家色2）
+jpp_auto_Kleinbus2006_kurz_Spielerfarbe1
+2006年式小型巴士（短身/玩家色1）
+jpp_auto_Kleinbus2006_kurz_Spielerfarbe2
+2006年式小型巴士（短身/玩家色2）
+#----Kleinlaster1989
+#----1989年式小型卡車
+jpp_auto_Kleinlaster1989_Sammelgut_Spielerfarbe1
+1989年式小型拼箱卡車（玩家色1）
+jpp_auto_Kleinlaster1989_Sammelgut_Spielerfarbe2
+1989年式小型拼箱卡車（玩家色2）
+jpp_auto_Kleinlaster1989_Kuhlfracht_Spielerfarbe1
+1989年式小型冷藏卡車（玩家色1）
+jpp_auto_Kleinlaster1989_Kuhlfracht_Spielerfarbe2
+1989年式小型冷藏卡車（玩家色2）
+jpp_auto_Kleinlaster1989_Tiefkuehlware_Spielerfarbe1
+1989年式小型冷凍卡車（玩家色1）
+jpp_auto_Kleinlaster1989_Tiefkuehlware_Spielerfarbe2
+1989年式小型冷凍卡車（玩家色2）
+jpp_auto_Kleinlaster1989_Kleinsendungen_Spielerfarbe1
+1989年式小型小件行李卡車（玩家色1）
+jpp_auto_Kleinlaster1989_Kleinsendungen_Spielerfarbe2
+1989年式小型小件行李卡車（玩家色2）
+jpp_auto_Kleinlaster1989_Fisch_Spielerfarbe1
+1989年式小型鮮魚卡車（玩家色1）
+jpp_auto_Kleinlaster1989_Fisch_Spielerfarbe2
+1989年式小型鮮魚卡車（玩家色2）
+#----Lastwagen1988
+#----1988年式卡車
+jpp_auto_Lastwagen1988_Sammelgut_Spielerfarbe1
+1988年式拼箱卡車（玩家色1）
+jpp_auto_Lastwagen1988_Sammelgut_Spielerfarbe2
+1988年式拼箱卡車（玩家色2）
+jpp_auto_Lastwagen1988_Kuhlfracht_Spielerfarbe1
+1988年式冷藏卡車（玩家色1）
+jpp_auto_Lastwagen1988_Kuhlfracht_Spielerfarbe2
+1988年式冷藏卡車（玩家色2）
+jpp_auto_Lastwagen1988_Tiefkuehlware_Spielerfarbe1
+1988年式冷凍卡車（玩家色1）
+jpp_auto_Lastwagen1988_Tiefkuehlware_Spielerfarbe2
+1988年式冷凍卡車（玩家色2）
+jpp_auto_Lastwagen1988_Kleinsendungen_Spielerfarbe1
+1988年式小件行李卡車（玩家色1）
+jpp_auto_Lastwagen1988_Kleinsendungen_Spielerfarbe2
+1988年式小件行李卡車（玩家色2）
+jpp_auto_Lastwagen1988_Fisch_Spielerfarbe1
+1988年式鮮魚卡車（玩家色1）
+jpp_auto_Lastwagen1988_Fisch_Spielerfarbe2
+1988年式鮮魚卡車（玩家色2）
+#----Pritschenwagen1988
+#----1988年式平板卡車
+jpp_auto_Pritschenwagen1988_Sammelgut_Spielerfarbe1
+1988年式平板拼箱卡車（玩家色1）
+jpp_auto_Pritschenwagen1988_Sammelgut_Spielerfarbe2
+1988年式平板拼箱卡車（玩家色2）
+jpp_auto_Pritschenwagen1988_Massenladen_Spielerfarbe1
+1988年式平板散裝卡車（玩家色1）
+jpp_auto_Pritschenwagen1988_Massenladen_Spielerfarbe2
+1988年式平板散裝卡車（玩家色2）
+jpp_auto_Pritschenwagen1988_PulverGranulate_Spielerfarbe1
+1988年式平板粉狀及顆粒狀卡車（玩家色1）
+jpp_auto_Pritschenwagen1988_PulverGranulate_Spielerfarbe2
+1988年式平板粉狀及顆粒狀卡車（玩家色2）
+jpp_auto_Pritschenwagen1988_Abfall_Spielerfarbe1
+1988年式平板廢棄物卡車（玩家色1）
+jpp_auto_Pritschenwagen1988_Abfall_Spielerfarbe2
+1988年式平板廢棄物卡車（玩家色2）
+jpp_auto_Pritschenwagen1988_Langgut_Spielerfarbe1
+1988年式平板長型卡車（玩家色1）
+jpp_auto_Pritschenwagen1988_Langgut_Spielerfarbe2
+1988年式平板長型卡車（玩家色2）
+#----Container-Lkw1988
+#----1988年式貨櫃卡車
+jpp_auto_Container-Lkw1988_Sammelgut_Spielerfarbe1
+1988年式拼箱貨櫃卡車（玩家色1）
+jpp_auto_Container-Lkw1988_Sammelgut_Spielerfarbe2
+1988年式拼箱貨櫃卡車（玩家色2）
+#----Schwerlastkipper1970
+#----1970年式重型自卸車
+jpp_auto_Schwerlastkipper1970_Spielerfarbe1
+1970年式重型自卸車（玩家色1）
+jpp_auto_Schwerlastkipper1970_Spielerfarbe2
+1970年式重型自卸車（玩家色2）
+#----Tankwagen1990
+#----1990年式油罐車
+jpp_auto_Tankwagen1990_Spielerfarbe1
+1990年式油罐車（玩家色1）
+jpp_auto_Tankwagen1990_Spielerfarbe2
+1990年式油罐車（玩家色2）

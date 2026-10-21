@@ -1,0 +1,1146 @@
+§###############################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                              Scenario: pak128.Japan+                         #
+#                             Language: en English                             #
+#                                Encoding: UTF-8                               #
+#                               Font : m+10r.bdf                               #
+#                            Date Created: 2026/10/20                          #
+#                                                                              #
+#                                   authors:                                   #
+#                          HAYASHIDA Kousei - HayaKoh                          #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#_______________________________menu_text_______________________________________
+#_______________________________menu_text_______________________________________
+SLOPETOOLS
+Terrain creation Tools
+RAILTOOLS
+Railway Tools
+MONORAILTOOLS
+Monorail Tools
+MAGLEVTOOLS
+Maglev Tools
+NARROWGAUGETOOLS
+Light railway Tools
+ROADTRAFFICTOOLS
+Road traffic Tools
+SHIPTOOLS
+Ship Tools
+AIRTOOLS
+Airline Tools
+SPECIALTOOLS
+Special Tools
+LAST_USED
+Recently Used Tools
+STATIONSTOOLS
+Railway station Tools
+RAILSTOOLS
+Rail Tools
+SIGNALTOOLS
+Railway signali Tools
+CATENARYTOOLS
+Catenary Tools
+TRAMSTATIONSTOOLS
+Tram stop Tools
+TRAMRAILSTOOLS
+Tram track Tool
+TRAMSIGNALTOOLS
+Tram signal Tools
+TRAMCATENARYTOOLS
+Tram catenary Tools
+MONORAILSTATIONSTOOLS
+Monorail station Tools
+MONORAILRAILSTOOLS
+Monorail track Tools
+MONORAILSIGNALTOOLS
+Monorail signal Tools
+MAGLEVSTATIONSTOOLS
+Maghreb station Tools
+MAGLEVRAILSTOOLS
+Maglev trajectory Tools
+MAGLEVSIGNALTOOLS
+Maglev signal Tools
+NARROWSTASIONSTOOLS
+Light railway station Tools
+NARROWRAILSTOOLS
+Light railway track Tools
+NARROWSIGNALTOOLS
+Light railway signal Tools
+NARROWCATENARYTOOLS
+Light railway catenary Tool
+ROADSTOPTOOLS
+Road stop Tools
+ROADTOOLS
+Road Tools
+ROADSIGNTOOLS
+Road sign Tools
+ROADDECOTOOLS
+Road decoration Tools
+PORTBUILDINGSTOOLS
+Port Tools
+CANALTOOLS
+Canal Tools
+CANALDECOTOOLS
+Canal decoration Tools
+AIRPORTTOOLS
+Airport Tools
+AIRWAYTOOLS
+Runway and Taxiway Tools
+AIRDECOTOOLS
+Airport decoration Tools
+#_______________________________program_text____________________________________
+#_______________________________program_text____________________________________
+%s building %s %s
+%1$s %2$s-mae %3$s
+%s city %d %s
+%s %d-chōme %s
+%s factory %s %s
+%1$s %2$s-mae %3$s
+#
+#
+player 1
+Jiyū Kōtsū
+player 2
+Tsubasa Transport
+player 3
+Hayate Express
+player 4
+Tsubame Steamship
+player 5
+Sunline Hikari
+player 6
+Hayabusa Airlines
+player 7
+Suzaku Express
+player 8
+Genbu Transport
+player 9
+Seiryū Shipping
+player 10
+Byakko Electric Railway
+player 11
+Kirin High-Speed Rail
+player 12
+Urashima Ferry
+player 13
+Shirayuki Railway
+#_______________________________unnecessary_text________________________________
+#_______________________________unnecessary_text________________________________
+%0_CITY_SYLL
+Ō
+%1_CITY_SYLL
+Ko
+%2_CITY_SYLL
+Mi
+%3_CITY_SYLL
+Ya
+%4_CITY_SYLL
+Ue
+%5_CITY_SYLL
+Naka
+%6_CITY_SYLL
+Shimo
+%7_CITY_SYLL
+Nii
+%8_CITY_SYLL
+Furu
+%9_CITY_SYLL
+Naga
+%A_CITY_SYLL
+Hiro
+%B_CITY_SYLL
+Taka
+%C_CITY_SYLL
+Toyo
+%D_CITY_SYLL
+Tomi
+%E_CITY_SYLL
+Toku
+%F_CITY_SYLL
+Fuku
+%G_CITY_SYLL
+Miya
+%H_CITY_SYLL
+Kami
+%I_CITY_SYLL
+Kura
+%J_CITY_SYLL
+Ishi
+%K_CITY_SYLL
+Kana
+%L_CITY_SYLL
+Yone
+%M_CITY_SYLL
+Ii
+%N_CITY_SYLL
+Kuma
+%O_CITY_SYLL
+Sa
+%P_CITY_SYLL
+Aka
+%Q_CITY_SYLL
+Shira
+%R_CITY_SYLL
+Ao
+%S_CITY_SYLL
+Kuro
+%T_CITY_SYLL
+Matsu
+%U_CITY_SYLL
+Take
+%V_CITY_SYLL
+Ume
+%W_CITY_SYLL
+Sakura
+%X_CITY_SYLL
+Aki
+%Y_CITY_SYLL
+Tsuru
+%Z_CITY_SYLL
+Kame
+#
+#
+&0_CITY_SYLL
+kawa
+&1_CITY_SYLL
+se
+&2_CITY_SYLL
+zawa
+&3_CITY_SYLL
+e
+&4_CITY_SYLL
+i
+&5_CITY_SYLL
+bashi
+&6_CITY_SYLL
+betsu
+&7_CITY_SYLL
+nai
+&8_CITY_SYLL
+yama
+&9_CITY_SYLL
+oka
+&A_CITY_SYLL
+mine
+&B_CITY_SYLL
+saka
+&C_CITY_SYLL
+tani
+&D_CITY_SYLL
+o
+&E_CITY_SYLL
+no
+&F_CITY_SYLL
+hara
+&G_CITY_SYLL
+be
+&H_CITY_SYLL
+gi
+&I_CITY_SYLL
+mori
+&J_CITY_SYLL
+tsu
+&K_CITY_SYLL
+hama
+&L_CITY_SYLL
+ura
+&M_CITY_SYLL
+shima
+&N_CITY_SYLL
+zaki
+&O_CITY_SYLL
+su
+&P_CITY_SYLL
+da
+&Q_CITY_SYLL
+mura
+&R_CITY_SYLL
+machi
+&S_CITY_SYLL
+ichi
+&T_CITY_SYLL
+do
+&U_CITY_SYLL
+zato
+&V_CITY_SYLL
+ya
+&W_CITY_SYLL
+shiro
+&X_CITY_SYLL
+mi
+&Y_CITY_SYLL
+moto
+&Z_CITY_SYLL
+ga
+#
+#
+nord
+Kita
+nordost
+Hokutō
+nordwest
+Hokusei
+ost
+Higashi
+sued
+Minami
+suedost
+Hokutō
+suedwest
+Nansei
+west
+Nishi
+#
+#
+0center
+%1$s %2$s
+1center
+%1$s-chūō %2$s
+2center
+%1$s-chō %2$s
+3center
+%1$s Honmachi %2$s
+4center
+%1$s Motomachi %2$s
+5center
+%1$s %2$smachi %3$s
+6center
+%1$s-fuchū %2$s
+7center
+%1$s Park %2$s
+8center
+%1$s-dōri %2$s
+9center
+%1$s-ōdōri %2$s
+Acenter
+%1$s-hondōri %2$s
+Bcenter
+%1$s %2$s-dōri %3$s
+Ccenter
+%1$s-hills %2$s
+Dcenter
+%1$s Shopping Street %2$s
+Ecenter
+%1$s Market %2$s
+Fcenter
+%1$s Industrial Park %2$s
+#
+#
+0suburb
+%1$s %2$s
+1suburb
+%2$s-%1$s %3$s
+2suburb
+Shin-%1$s %2$s
+3suburb
+Kami-%1$s %2$s
+4suburb
+Shimo-%1$s %2$s
+5suburb
+Naka-%1$s %2$s
+6suburb
+%1$s-guchi %2$s
+7suburb
+%1$s %2$sguchi %3$s
+8suburb
+%1$s-ryokuchi %2$s
+9suburb
+%1$s-tenjin %2$s
+Asuburb
+%1$s-hachiman %2$s
+Bsuburb
+%1$s-inari %2$s
+Csuburb
+%1$s-yakushi %2$s
+Dsuburb
+%1$s-yakujin %2$s
+#
+#
+0extern
+%1$s-%2$s %3$s
+1extern
+Mae-%1$s %2$s
+2extern
+Soto-%1$s %2$s
+3extern
+Den-en-%1$s %2$s
+4extern
+%1$s-Genya %2$s
+#_______________________________good____________________________________________
+#_______________________________good____________________________________________
+paletten
+ pallets
+person
+ people
+stuck
+ pieces
+tiere
+ animals
+crate
+ crates
+m3
+ ㎥
+#
+#
+None
+none
+Passagiere
+passengers
+Beton
+concrete
+Nutztiere
+livestock
+#
+#
+CATEGORY_11
+piece goods
+catg_Sammelgut
+mixed goods
+Alkohol
+liquor
+Baumwolle
+cotton
+Bucher
+books
+Druckfarbe
+printing ink
+Faser
+fiber
+Gemuse
+vegetables
+wurzel_Gemuse
+root vegetables
+Gewurze
+spices
+Gummi
+rubber
+Kleidung
+clothing
+Moebel
+furniture
+Nusse
+nuts
+Obst
+fruits
+kern_Obst
+pome fruits
+tropische_Obst
+tropical fruits
+zitrus_Obst
+citrus fruits
+Papier
+paper
+Plastik
+plastic
+brauner_Reis
+brown rice
+weisser_Reis
+white rice
+Sojabohnen
+soya beans
+Waren
+general goods
+Wolle
+wool
+#
+#
+CATEGORY_12
+chilled goods
+catg_Kuhlfracht
+chilled goods
+Bento
+bento
+Fischereierzeugnisse
+processed seafood products
+blatt_Gemuse
+leafy vegetables
+frucht_Gemuse
+fruit vegetables
+Getraenke
+soft drinks
+Milch
+milk
+Milchprodukte
+dairy products
+stein_Obst
+stone fruits
+Olive
+olives
+Trauben
+grapes
+#
+#
+CATEGORY_13
+frozen goods
+catg_Tiefkuehlware
+frozen goods
+Fisch
+fish
+Fleisch
+meat
+#
+#
+CATEGORY_14
+parcel goods
+catg_Kleinsendungen
+parcel goods
+Post
+luggage
+Zeitung
+newspaper
+#
+#
+CATEGORY_21
+bulk goods
+catg_Massenladen
+bulk goods
+Eisenerz
+iron ore
+Kohle
+coal
+Zement
+cement
+#
+#
+CATEGORY_22
+particulate goods
+catg_PulverGranulate
+particulate goods
+Holzpane
+wood chips
+roh_Reis
+paddy rice
+Weizen
+wheat
+#
+#
+CATEGORY_23
+waste
+catg_Abfall
+waste
+Abfall
+waste
+Sperrmull
+bulky waste
+#
+#
+CATEGORY_24
+long goods
+catg_Langgut
+long goods
+Bretter
+planks
+Holz
+lumber
+Stahl
+steel
+#
+#
+CATEGORY_25
+seafood
+catg_Fisch
+seafood
+frischer_Fisch
+fresh fish
+#
+#
+CATEGORY_31
+liquid goods
+catg_Flussiggut
+liquid goods
+Benzin
+petrol
+Chemikalien
+chemical products
+Naphtha
+naphtha
+Oel
+crude oil
+Schwerol
+fuel oil
+#
+#
+CATEGORY_32
+gaseous goods
+#_______________________________Factory_________________________________________
+#_______________________________Factory_________________________________________
+#----Goods Chain
+#----Goods Chain
+jpp_factory_Waren_Gemischtwarenfabrik
+Household Goods Factory
+jpp_factory_Waren_Gemischtwarenladen
+General Store
+#----Paper Chain
+#----Paper Chain
+jpp_factory_Papier_Papierfabrik
+Paper Mill
+jpp_factory_Papier_Verlag
+Publisher
+jpp_factory_Papier_Druckerei
+Printing House
+jpp_factory_Papier_Buchhandlung
+Bookshop
+#----Chemical Chain
+#----Chemical Chain
+jpp_factory_Chemikalien_chemischeAnlage
+Chemical Plant
+#----Coal Chain
+#----Coal Chain
+jpp_factory_Kohle_Kohlebergwerk_Schacht
+Coal Mine
+jpp_factory_Kohle_Kohlebergwerk_1899
+Coal Mine
+jpp_factory_Kohle_kraftwerk
+Coal-Fired Power Station
+#----Oil Chain
+#----Oil Chain
+jpp_factory_Oel_Oelfeld
+Oil Field
+jpp_field_Oelpumpe
+Oil Extraction Pump
+jpp_factory_Oel_Raffinerie
+Refinery
+jpp_factory_Oel_Tankstelle
+Petrol Station
+#----Iron Chain
+#----Iron Chain
+jpp_factory_Eisen_Eisenmine
+Iron Mine
+jpp_factory_Eisen_Stahlwerk
+Steelworks
+#----Waste Chain
+#----Waste Chain
+jpp_factory_Abfall_Mullabfuhrstation
+Rubbish Collection Point
+jpp_factory_Abfall_Recyclinganlage
+Recycling Plant
+jpp_factory_Abfall_Recyclinganlage_Sperrmull
+Recycling Plant
+jpp_factory_Abfall_kraftwerk
+Incineration Plant
+#----Wood Chain
+#----Wood Chain
+jpp_factory_Holz_Faellstelle
+Logging Site
+jpp_field_Wald
+Forest
+jpp_factory_wood_Saegewerk
+Sawmill
+jpp_factory_wood_Moebelfabrik
+Furniture Factory
+jpp_factory_wood_Moebelhaus
+Furniture Retailer
+jpp_factory_wood_Biomasse_kraftwerk
+Biomass Power Plant
+#_______________________________Building-Landmark_______________________________
+#_______________________________Landmark________________________________________
+arena
+Arena
+FerrisWheel
+Ferris Wheel
+mon_hru01
+Fountain
+a_cinema
+Cinema
+Tsutenkaku128
+Tsūtenkaku
+Pagoda01
+Five-storey Pagoda
+DenkHachiko128
+Statue of Hachikō
+DenkRyoma128
+Statue of SAKAMOTO Ryōma
+OBSERVATORY
+Observatory
+Lighthouse01
+Lighthouse
+nakanoshimatoshokan
+Library
+jpp_cur_Grundschule1
+Elementary School
+#_______________________________Building-City___________________________________
+#_______________________________市内建築物______________________________________
+#----res_128jp
+#----Residential（128.japan）
+jpp_res_128jp_Landwirtschaftliche2A
+Houses in Agricultural Areas
+jpp_res_128jp_NiedrigesGebaeude3A
+Low-Rise Housing
+jpp_res_128jp_NiedrigesGebaeude4A
+Low-Rise Housing
+jpp_res_128jp_NiedrigesGebaeude4B
+Low-Rise Housing
+jpp_res_128jp_NiedrigesGebaeude6A
+Low-Rise Housing
+jpp_res_128jp_NiedrigesGebaeude8A
+Low-Rise Apartment Complex
+jpp_res_128jp_NiedrigesGebaeude8B
+Low-Rise Apartment Complex
+jpp_res_128jp_NiedrigesGebaeude12A
+Low-Rise Apartment Complex
+jpp_res_128jp_NiedrigesGebaeude16A
+Low-Rise Apartment Complex
+jpp_res_128jp_NiedrigesGebaeude16B
+Low-Rise Apartment Complex
+jpp_res_128jp_NiedrigesGebaeude24A
+Low-Rise Apartment Complex
+jpp_res_128jp_NiedrigesGebaeude24B
+Low-Rise Apartment Complex
+jpp_res_128jp_Wohnsiedlung18A
+Park
+jpp_res_128jp_Wohnsiedlung18B
+Housing Complex
+jpp_res_128jp_Wohnsiedlung24A
+Housing Complex
+jpp_res_128jp_Wohnsiedlung48A
+Housing Complex
+jpp_res_128jp_NiedrigesParzelle8A
+Low-Rise Residential Area
+jpp_res_128jp_NiedrigesParzelle16A
+Low-Rise Residential Area
+jpp_res_128jp_NiedrigesParzelle18A
+Low-Rise Residential Area
+jpp_res_128jp_MittlererGebaeude52A
+Mid-Rise Apartment Complex
+jpp_res_128jp_Hochhaus72A
+High-Rise Apartment Complex
+jpp_res_128jp_Hochhaus88A
+High-Rise Apartment Complex
+jpp_res_128jp_Hochhaus152A
+High-Rise Apartment Complex
+jpp_res_128jp_Hochhaus208A
+High-Rise Apartment Complex
+#----com_128jp
+#----Commercial（128.japan）
+jpp_com_128jp_NiedrigesGebaeude4A
+Post Office
+jpp_com_128jp_NiedrigesParzelle22A
+Shopping Street
+jpp_com_128jp_MittlererGebaeude15A
+Mid-Rise Apartment Complex with Attached Convenience Store
+jpp_com_128jp_MittlererGebaeude19A
+Mid-Rise Post Office
+jpp_com_128jp_MittlererGebaeude29A
+Mid-Rise Bank Building
+jpp_com_128jp_MittlererGebaeude29B
+Mid-Rise Office Building
+jpp_com_128jp_MittlererGebaeude40A
+Mid-Rise Commercial Building
+jpp_com_128jp_MittlererParzelle23A
+Mid-Rise Office Building Cluster
+jpp_com_128jp_MittlererParzelle32A
+Mid-Rise Office Building Cluster
+jpp_com_128jp_Hochhaus60A
+High-Rise Office Building
+jpp_com_128jp_Hochhaus76A
+High-Rise Building
+jpp_com_128jp_Hochhaus87A
+High-Rise Building
+jpp_com_128jp_Hochhaus96A
+High-Rise Building
+#----ind_128jp
+#----Industrial（128.japan）
+jpp_ind_128jp_NiedrigesGebaeude4A
+Transportation Office
+jpp_ind_128jp_NiedrigesGebaeude12A
+Low-Rise Factory
+jpp_ind_128jp_NiedrigesGebaeude18A
+Low-Rise Factory
+jpp_ind_128jp_NiedrigesGebaeude27A
+Low-Rise Factory
+jpp_ind_128jp_MittlererGebaeude15A
+Mid-Rise Industrial Building
+#----713
+#----713
+jpp_com_713_NiedrigesGebaeude4A
+Super Public Bath
+jpp_res_713_Wohnsiedlung15A
+Housing Complex
+jpp_res_713_Wohnsiedlung15B
+Water Tower
+jpp_res_713_Wohnsiedlung20A
+Housing Complex
+jpp_res_713_Wohnsiedlung20B
+Housing Complex
+jpp_res_713_Wohnsiedlung30A
+Housing Complex
+#----wilson
+#----wilson
+jpp_com_wilson_Landwirtschaftliche0A
+Rice Paddy\n\nCommercial development is planned for this area.
+jpp_com_wilson_Landwirtschaftliche0B
+Field\n\nCommercial development is planned for this area.
+jpp_com_wilson_Landwirtschaftliche0C
+Fallow Fields\n\nCommercial development is planned for this area.
+jpp_com_wilson_Landwirtschaftliche0D
+Rice Paddy\n\nCommercial development is planned for this area.
+jpp_com_wilson_Landwirtschaftliche0D
+Field\n\nCommercial development is planned for this area.
+jpp_com_wilson_Landwirtschaftliche0F
+Fallow Fields\n\nCommercial development is planned for this area.
+jpp_com_wilson_Landwirtschaftliche0G
+Rice Paddy\n\nCommercial development is planned for this area.
+jpp_com_wilson_Landwirtschaftliche0H
+Field\n\nCommercial development is planned for this area.
+jpp_com_wilson_Landwirtschaftliche0I
+Fallow Fields\n\nCommercial development is planned for this area.
+jpp_ind_wilson_Landwirtschaftliche0A
+Rice Paddy\n\nIndustrial development is planned for this area.
+jpp_ind_wilson_Landwirtschaftliche0B
+Field\n\nIndustrial development is planned for this area.
+jpp_ind_wilson_Landwirtschaftliche0C
+Fallow Fields\n\nIndustrial development is planned for this area.
+jpp_ind_wilson_Landwirtschaftliche0D
+Rice Paddy\n\nIndustrial development is planned for this area.
+jpp_ind_wilson_Landwirtschaftliche0E
+Field\n\nIndustrial development is planned for this area.
+jpp_ind_wilson_Landwirtschaftliche0F
+Fallow Fields\n\nIndustrial development is planned for this area.
+jpp_ind_wilson_Landwirtschaftliche0G
+Rice Paddy\n\nIndustrial development is planned for this area.
+jpp_ind_wilson_Landwirtschaftliche0H
+Field\n\nIndustrial development is planned for this area.
+jpp_ind_wilson_Landwirtschaftliche0I
+Fallow Fields\n\nIndustrial development is planned for this area.
+jpp_res_wilson_Landwirtschaftliche0A
+Rice Paddy\n\nResidential development is planned for this area.
+jpp_res_wilson_Landwirtschaftliche0B
+Field\n\nResidential development is planned for this area.
+jpp_res_wilson_Landwirtschaftliche0C
+Fallow Fields\n\nResidential development is planned for this area.
+jpp_res_wilson_Landwirtschaftliche0D
+Rice Paddy\n\nResidential development is planned for this area.
+jpp_res_wilson_Landwirtschaftliche0E
+Field\n\nResidential development is planned for this area.
+jpp_res_wilson_Landwirtschaftliche0F
+Fallow Fields\n\nResidential development is planned for this area.
+jpp_res_wilson_Landwirtschaftliche0G
+Rice Paddy\n\nResidential development is planned for this area.
+jpp_res_wilson_Landwirtschaftliche0H
+Field\n\nResidential development is planned for this area.
+jpp_res_wilson_Landwirtschaftliche0I
+Fallow Fields\n\nResidential development is planned for this area.
+#_______________________________Building-tow____________________________________
+#_______________________________TownHall________________________________________
+yakusho01
+Town Hall
+01_CITY
+Town Hall
+jpp_tow_ModernesRathaus1
+City Hall
+#_______________________________Road____________________________________________
+#_______________________________Road____________________________________________
+jpp_road_Strecke20
+20km/h off road
+jpp_road_Strecke30
+30km/h off road
+jpp_road_Schotterstrasse30
+30km/h gravel road
+jpp_road_Schotterstrasse40
+40km/h city road
+jpp_road_Schotterstrasse50
+50km/h main road
+jpp_road_Strasse30
+30km/h community road
+jpp_road_Strasse40
+40km/h city road
+jpp_road_Strasse50
+50km/h general road
+jpp_road_Strasse60
+60km/h main road
+jpp_road_Strasse70
+70km/h high-standard road
+jpp_road_Strasse80
+80km/h temporary expressway
+#_______________________________Roadsign________________________________________
+#_______________________________Traffic signals and signs_______________________
+jpp_roadsign_Strassenampel1970_links_white
+1970 model left-mounted traffic signal (white)
+#_______________________________Vehicle-Track___________________________________
+#_______________________________RailwayVehicles_________________________________
+#----JNRPendlerzug1
+#----Japanese National Railways style commuter train 1
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Spielerfarbe1
+Japanese National Railways style commuter train 1 4-door Lead car A (Player Color 1)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Spielerfarbe1
+Japanese National Railways style commuter train 1 4-door Lead car B (Player Color 1)
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Spielerfarbe1
+Japanese National Railways style commuter train 1 4-door Rear car A (Player Color 1)
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Spielerfarbe1
+Japanese National Railways style commuter train 1 4-door Rear car B (Player Color 1)
+jpp_zug_JNRPendlerzug1_Zwischen4_Spielerfarbe1
+Japanese National Railways style commuter train 1 4-door Middle car (Player Color 1)
+jpp_zug_JNRPendlerzug1_Zwischen6_Spielerfarbe1
+Japanese National Railways style commuter train 1 6-door Middle car (Player Color 1)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Spielerfarbe2
+Japanese National Railways style commuter train 1 4-door Lead car A (Player Color 2)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Spielerfarbe2
+Japanese National Railways style commuter train 1 4-door Lead car B (Player Color 2)
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Spielerfarbe2
+Japanese National Railways style commuter train 1 4-door Rear car A (Player Color 2)
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Spielerfarbe2
+Japanese National Railways style commuter train 1 4-door Rear car B (Player Color 2)
+jpp_zug_JNRPendlerzug1_Zwischen4_Spielerfarbe2
+Japanese National Railways style commuter train 1 4-door Middle car (Player Color 2)
+jpp_zug_JNRPendlerzug1_Zwischen6_Spielerfarbe2
+Japanese National Railways style commuter train 1 6-door Middle car (Player Color 2)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Hellgluen
+Japanese National Railways style commuter train 1 4-door Lead car A (light green)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Hellgluen
+Japanese National Railways style commuter train 1 4-door Lead car B (light green)
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Hellgluen
+Japanese National Railways style commuter train 1 4-door Rear car A (light green)
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Hellgluen
+Japanese National Railways style commuter train 1 4-door Rear car B (light green)
+jpp_zug_JNRPendlerzug1_Zwischen4_Hellgluen
+Japanese National Railways style commuter train 1 4-door Middle car (light green)
+jpp_zug_JNRPendlerzug1_Zwischen6_Hellgluen
+Japanese National Railways style commuter train 1 6-door Middle car (light green)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Gluen
+Japanese National Railways style commuter train 1 4-door Lead car A (green)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Gluen
+Japanese National Railways style commuter train 1 4-door Lead car B (green)
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Gluen
+Japanese National Railways style commuter train 1 4-door Rear car A (green)
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Gluen
+Japanese National Railways style commuter train 1 4-door Rear car B (green)
+jpp_zug_JNRPendlerzug1_Zwischen4_Gluen
+Japanese National Railways style commuter train 1 4-door Middle car (green)
+jpp_zug_JNRPendlerzug1_Zwischen6_Gluen
+Japanese National Railways style commuter train 1 6-door Middle car (green)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Smaragd
+Japanese National Railways style commuter train 1 4-door Lead car A (emerald green)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Smaragd
+Japanese National Railways style commuter train 1 4-door Lead car B (emerald green)
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Smaragd
+Japanese National Railways style commuter train 1 4-door Rear car A (emerald green)
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Smaragd
+Japanese National Railways style commuter train 1 4-door Rear car B (emerald green)
+jpp_zug_JNRPendlerzug1_Zwischen4_Smaragd
+Japanese National Railways style commuter train 1 4-door Middle car (emerald green)
+jpp_zug_JNRPendlerzug1_Zwischen6_Smaragd
+Japanese National Railways style commuter train 1 6-door Middle car (emerald green)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Himmel
+Japanese National Railways style commuter train 1 4-door Lead car A (sky blue)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Himmel
+Japanese National Railways style commuter train 1 4-door Lead car B (sky blue)
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Himmel
+Japanese National Railways style commuter train 1 4-door Rear car A (sky blue)
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Himmel
+Japanese National Railways style commuter train 1 4-door Rear car B (sky blue)
+jpp_zug_JNRPendlerzug1_Zwischen4_Himmel
+Japanese National Railways style commuter train 1 4-door Middle car (sky blue)
+jpp_zug_JNRPendlerzug1_Zwischen6_Himmel
+Japanese National Railways style commuter train 1 6-door Middle car (sky blue)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Blau
+Japanese National Railways style commuter train 1 4-door Lead car A (blue)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Blau
+Japanese National Railways style commuter train 1 4-door Lead car B (blue)
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Blau
+Japanese National Railways style commuter train 1 4-door Rear car A (blue)
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Blau
+Japanese National Railways style commuter train 1 4-door Rear car B (blue)
+jpp_zug_JNRPendlerzug1_Zwischen4_Blau
+Japanese National Railways style commuter train 1 4-door Middle car (blue)
+jpp_zug_JNRPendlerzug1_Zwischen6_Blau
+Japanese National Railways style commuter train 1 6-door Middle car (blue)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Gelb
+Japanese National Railways style commuter train 1 4-door Lead car A (yellow)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Gelb
+Japanese National Railways style commuter train 1 4-door Lead car B (yellow)
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Gelb
+Japanese National Railways style commuter train 1 4-door Rear car A (yellow)
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Gelb
+Japanese National Railways style commuter train 1 4-door Rear car B (yellow)
+jpp_zug_JNRPendlerzug1_Zwischen4_Gelb
+Japanese National Railways style commuter train 1 4-door Middle car (yellow)
+jpp_zug_JNRPendlerzug1_Zwischen6_Gelb
+Japanese National Railways style commuter train 1 6-door Middle car (yellow)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Orange
+Japanese National Railways style commuter train 1 4-door Lead car A (orange)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Orange
+Japanese National Railways style commuter train 1 4-door Lead car B (orange)
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Orange
+Japanese National Railways style commuter train 1 4-door Rear car A (orange)
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Orange
+Japanese National Railways style commuter train 1 4-door Rear car B (orange)
+jpp_zug_JNRPendlerzug1_Zwischen4_Orange
+Japanese National Railways style commuter train 1 4-door Middle car (orange)
+jpp_zug_JNRPendlerzug1_Zwischen6_Orange
+Japanese National Railways style commuter train 1 6-door Middle car (orange)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Rot
+Japanese National Railways style commuter train 1 4-door Lead car A (red)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Rot
+Japanese National Railways style commuter train 1 4-door Lead car B (red)
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Rot
+Japanese National Railways style commuter train 1 4-door Rear car A (red)
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Rot
+Japanese National Railways style commuter train 1 4-door Rear car B (red)
+jpp_zug_JNRPendlerzug1_Zwischen4_Rot
+Japanese National Railways style commuter train 1 4-door Middle car (red)
+jpp_zug_JNRPendlerzug1_Zwischen6_Rot
+Japanese National Railways style commuter train 1 6-door Middle car (red)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Brawn
+Japanese National Railways style commuter train 1 4-door Lead car A (brown)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Brawn
+Japanese National Railways style commuter train 1 4-door Lead car B (brown)
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Brawn
+Japanese National Railways style commuter train 1 4-door Rear car A (brown)
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Brawn
+Japanese National Railways style commuter train 1 4-door Rear car B (brown)
+jpp_zug_JNRPendlerzug1_Zwischen4_Brawn
+Japanese National Railways style commuter train 1 4-door Middle car (brown)
+jpp_zug_JNRPendlerzug1_Zwischen6_Brawn
+Japanese National Railways style commuter train 1 6-door Middle car (brown)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Lila
+Japanese National Railways style commuter train 1 4-door Lead car A (purple)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Lila
+Japanese National Railways style commuter train 1 4-door Lead car B (purple)
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Lila
+Japanese National Railways style commuter train 1 4-door Rear car A (purple)
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Lila
+Japanese National Railways style commuter train 1 4-door Rear car B (purple)
+jpp_zug_JNRPendlerzug1_Zwischen4_Lila
+Japanese National Railways style commuter train 1 4-door Middle car (purple)
+jpp_zug_JNRPendlerzug1_Zwischen6_Lila
+Japanese National Railways style commuter train 1 6-door Middle car (purple)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Rosa
+Japanese National Railways style commuter train 1 4-door Lead car A (pink)
+jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Rosa
+Japanese National Railways style commuter train 1 4-door Lead car B (pink)
+jpp_zug_JNRPendlerzug1_Heck4_TypA_Rosa
+Japanese National Railways style commuter train 1 4-door Rear car A (pink)
+jpp_zug_JNRPendlerzug1_Heck4_TypB_Rosa
+Japanese National Railways style commuter train 1 4-door Rear car B (pink)
+jpp_zug_JNRPendlerzug1_Zwischen4_Rosa
+Japanese National Railways style commuter train 1 4-door Middle car (pink)
+jpp_zug_JNRPendlerzug1_Zwischen6_Rosa
+Japanese National Railways style commuter train 1 6-door Middle car (pink)
+#_______________________________Vehicle-Auto____________________________________
+#_______________________________RoadVehicles____________________________________
+#----BonnetBus1
+#----Bonnet bus 1
+jpp_auto_BonnetBus1_Spielerfarbe1
+Bonnet bus 1 (Player Color 1)
+jpp_auto_BonnetBus1_Spielerfarbe2
+Bonnet bus 1 (Player Color 2)
+#----Linienbus1968
+#----1968 model route bus 
+jpp_auto_Linienbus1968_Spielerfarbe1
+1968 model route bus (Player Color 1)
+jpp_auto_Linienbus1968_Spielerfarbe2
+1968 model route bus (Player Color 2)
+#----Linienbus1984
+#----1984 model route bus
+jpp_auto_Linienbus1984_Spielerfarbe1
+1984 model route bus (Player Color 1)
+jpp_auto_Linienbus1984_Spielerfarbe2
+1984 model route bus (Player Color 2)
+#----Linienbus2000
+#----2000 model route bus
+jpp_auto_Linienbus2000_Spielerfarbe1
+2000 model route bus (Player Color 1)
+jpp_auto_Linienbus2000_Spielerfarbe2
+2000 model route bus (Player Color 2)
+#----Kleinbus1992
+#----1992 model small bus
+jpp_auto_Kleinbus1992_Spielerfarbe1
+1992 model small bus (Player Color 1)
+jpp_auto_Kleinbus1992_Spielerfarbe2
+1992 model small bus (Player Color 2)
+#----Kleinbus2006
+#----2006 model small bus
+jpp_auto_Kleinbus2006_Spielerfarbe1
+2006 model small bus (Long-body / Player Color 1)
+jpp_auto_Kleinbus2006_Spielerfarbe2
+2006 model small bus (Long-body / Player Color 2)
+jpp_auto_Kleinbus2006_kurz_Spielerfarbe1
+2006 model small bus (Short-body / Player Color 1)
+jpp_auto_Kleinbus2006_kurz_Spielerfarbe2
+2006 model small bus (Short-body / Player Color 2)
+#----Kleinlaster1989
+#----1989 model small truck
+jpp_auto_Kleinlaster1989_Sammelgut_Spielerfarbe1
+1989 model small mixed truck (Player Color 1)
+jpp_auto_Kleinlaster1989_Sammelgut_Spielerfarbe2
+1989 model small mixed truck (Player Color 2)
+jpp_auto_Kleinlaster1989_Kuhlfracht_Spielerfarbe1
+1989 model small chilled truck (Player Color 1)
+jpp_auto_Kleinlaster1989_Kuhlfracht_Spielerfarbe2
+1989 model small chilled truck (Player Color 2)
+jpp_auto_Kleinlaster1989_Tiefkuehlware_Spielerfarbe1
+1989 model small frozen truck (Player Color 1)
+jpp_auto_Kleinlaster1989_Tiefkuehlware_Spielerfarbe2
+1989 model small frozen truck (Player Color 2)
+jpp_auto_Kleinlaster1989_Kleinsendungen_Spielerfarbe1
+1989 model small parcel truck (Player Color 1)
+jpp_auto_Kleinlaster1989_Kleinsendungen_Spielerfarbe2
+1989 model small parcel truck (Player Color 2)
+jpp_auto_Kleinlaster1989_Fisch_Spielerfarbe1
+1989 model small fish truck (Player Color 1)
+jpp_auto_Kleinlaster1989_Fisch_Spielerfarbe2
+1989 model small fish truck (Player Color 2)
+#----Lastwagen1988
+#----1988 model truck
+jpp_auto_Lastwagen1988_Sammelgut_Spielerfarbe1
+1988 model mixed truck (Player Color 1)
+jpp_auto_Lastwagen1988_Sammelgut_Spielerfarbe2
+1988 model mixed truck (Player Color 2)
+jpp_auto_Lastwagen1988_Kuhlfracht_Spielerfarbe1
+1988 model chilled truck (Player Color 1)
+jpp_auto_Lastwagen1988_Kuhlfracht_Spielerfarbe2
+1988 model chilled truck (Player Color 2)
+jpp_auto_Lastwagen1988_Tiefkuehlware_Spielerfarbe1
+1988 model frozen truck (Player Color 1)
+jpp_auto_Lastwagen1988_Tiefkuehlware_Spielerfarbe2
+1988 model frozen truck (Player Color 2)
+jpp_auto_Lastwagen1988_Kleinsendungen_Spielerfarbe1
+1988 model parcel truck (Player Color 1)
+jpp_auto_Lastwagen1988_Kleinsendungen_Spielerfarbe2
+1988 model parcel truck (Player Color 2)
+jpp_auto_Lastwagen1988_Fisch_Spielerfarbe1
+1988 model fish truck (Player Color 1)
+jpp_auto_Lastwagen1988_Fisch_Spielerfarbe2
+1988 model fish truck (Player Color 2)
+#----Pritschenwagen1988
+#----1988 model flatbed truck
+jpp_auto_Pritschenwagen1988_Sammelgut_Spielerfarbe1
+1988 model flatbed mixed truck (Player Color 1)
+jpp_auto_Pritschenwagen1988_Sammelgut_Spielerfarbe2
+1988 model flatbed mixed truck (Player Color 2)
+jpp_auto_Pritschenwagen1988_Massenladen_Spielerfarbe1
+1988 model flatbed bulk truck (Player Color 1)
+jpp_auto_Pritschenwagen1988_Massenladen_Spielerfarbe2
+1988 model flatbed bulk truck (Player Color 2)
+jpp_auto_Pritschenwagen1988_PulverGranulate_Spielerfarbe1
+1988 model flatbed particulate truck (Player Color 1)
+jpp_auto_Pritschenwagen1988_PulverGranulate_Spielerfarbe2
+1988 model flatbed particulate truck (Player Color 2)
+jpp_auto_Pritschenwagen1988_Abfall_Spielerfarbe1
+1988 model flatbed waste truck (Player Color 1)
+jpp_auto_Pritschenwagen1988_Abfall_Spielerfarbe2
+1988 model flatbed waste truck (Player Color 2)
+jpp_auto_Pritschenwagen1988_Langgut_Spielerfarbe1
+1988 model flatbed long truck (Player Color 1)
+jpp_auto_Pritschenwagen1988_Langgut_Spielerfarbe2
+1988 model flatbed long truck (Player Color 2)
+#----Container-Lkw1988
+#----1988 model container truck
+jpp_auto_Container-Lkw1988_Sammelgut_Spielerfarbe1
+1988 model mixed container truck (Player Color 1)
+jpp_auto_Container-Lkw1988_Sammelgut_Spielerfarbe2
+1988 model mixed container truck (Player Color 2)
+#----Schwerlastkipper1970
+#----1988 model heavy dump truck
+jpp_auto_Schwerlastkipper1970_Spielerfarbe1
+1970 model Heavy dump truck (Player Color 1)
+jpp_auto_Schwerlastkipper1970_Spielerfarbe2
+1970 model Heavy dump truck (Player Color 2)
+#----Tankwagen1990
+#----1990 model tanker truck
+jpp_auto_Tankwagen1990_Spielerfarbe1
+1990 model tanker truck (Player Color 1)
+jpp_auto_Tankwagen1990_Spielerfarbe2
+1990 model tanker truck (Player Color 2)
