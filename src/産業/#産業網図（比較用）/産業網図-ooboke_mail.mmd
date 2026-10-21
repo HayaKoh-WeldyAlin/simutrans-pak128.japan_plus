@@ -1,0 +1,9 @@
+%% Mermaid Live Editor（https://mermaid.live/）形式で記述しています。
+flowchart LR
+  yuubin_kyoku[簡易郵便局] --> mail11([仕分前郵便物])
+  mail11 --> chuuou_yuubin_kyoku01[中央郵便局（仕分）] --> mail12([郵袋]) & mail21([郵便小包])
+  mail12 --> chuuou_yuubin_kyoku02[中央郵便局（発送）] --> mail13([配達郵便物])
+  chuuou_yuubin_kyoku03[中央郵便局（直接扱い）] --> mail11
+  local_yuubin_kyoku[地域郵便局] --> mail12 & mail21
+  mail12 --> local_yuubin_kyoku_hassou[地域郵便局（発送）] --> mail13
+  mail13 & mail21 --> todoke_saki[郵便・荷物届け先]

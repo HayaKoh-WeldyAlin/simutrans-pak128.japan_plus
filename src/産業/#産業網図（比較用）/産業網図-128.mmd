@@ -1,0 +1,52 @@
+%% Mermaid Live Editor（https://mermaid.live/）形式で記述しています。
+flowchart LR
+  coal_mine[炭鉱] --> Kohle([石炭])
+  Kohle --> old_powerplant_kraftwerk[石炭発電所]
+  sand_quarry_dd[砂採取場] --> Sand([砂])
+  Kohle & Sand --> Glass_factory[ガラス工場] --> glass([ガラス])
+  Erzbergwerk[鉄鉱石鉱山] --> Eisenerz([鉄鉱石])
+  Eisenerz & Kohle --> steel_mill[製鉄所] --> Stahl([鉄鋼])
+  ForestPlantation[植林地] --> Holz([木材])
+  Holz --> Saegewerk[製材所] --> Bretter([板材])
+  Oelbohrinsel[石油リグ] --> Oel([原油])
+  Oelfeld[油田] --> Oel
+  Oel --> oilkraftwerk[石油火力発電所]
+  Oel --> Raffinerie[精製所] --> Gasoline([ガソリン]) & Plastik([プラスチック]) & Chemicals([化学薬品])
+  Gasoline --> TANKE[ガソリンスタンド]
+  cornfield[トウモロコシ畑] --> corn([トウモロコシ])
+  corn --> ethanol_plant[エタノール工場] --> Ethanol([バイオエタノール])
+  Gasoline & Ethanol --> modern_fuel_station[エタノールスタンド]
+  Bretter & Chemicals --> Papierfabrik[製紙工場] --> Papier([紙])
+  Papier & Chemicals --> Druckerei[印刷工場] --> Bucher([書籍])
+  Bucher --> publisher[出版社]
+  Stonequarry[採石場] --> Stone([石])
+  Stone & Kohle --> Cementmill[セメント工場] --> Cement([セメント])
+  Stone & Sand & Cement --> Concretefactory[コンクリート工場] --> Concrete([コンクリート])
+  Concrete & Bretter & Stahl --> MaterialsWholesales[資材販売店]
+  Plastik & Stahl & glass --> electronics_factory_new[電化製品工場] --> electronics([家電])
+  sheep_farm[羊牧場] --> wool([ウール]) & meat([肉])
+  cotton_field[綿花畑] --> cotton([綿花])
+  wool & cotton --> textile_factory[織物工場] --> textile([織物])
+  Plastik & Stahl & Bretter --> classical_goods_factory[雑貨工場] --> goods_([雑貨])
+  goods_ & electronics & textile --> shopping_mall[ショッピングモール]
+  chicken_farm[養鶏場] --> fertilizer([肥料]) & meat
+  Bretter --> Moebelfabrik[家具工場] --> Moebel([家具])
+  Moebel & Bucher & fertilizer --> Moebelhaus[家具販売店]
+  Stahl & Plastik --> car_assembly_plant[自動車工場] --> Autos([自動車])
+  Autos --> autoshop[自動車販売店]
+  cow_farm[牛牧場] --> meat & milk([ミルク])
+  meat --> Simutrans_Fried_Chicken[Simutransフライドチキン]
+  meat & Stahl --> meat_packing_plant[食肉加工工場] --> canned_food([缶詰])
+  milk & glass --> dairy[乳製品工場]
+  fish_swarm[漁場] --> fish([魚肉])
+  fish_pond[養魚池] --> fish
+  fish & Stahl --> old_fish_cannery[魚缶詰工場] --> canned_food
+  fish & meat & Stahl --> cannery[缶詰工場] --> canned_food
+  grain_farm_w_fields[小麦農家] --> grain([穀物])
+  grain --> grain_mill[製粉工場] --> flour([小麦粉])
+  flour --> bakery[パン工場]
+  meat & fish & flour --> food_processing_plant[食品工場] --> food([食品])
+  grain & glass --> brewery[醸造所] --> beer([ビール])
+  food & canned_food & beer --> supermarket[スーパーマーケット]
+  waste_disposal[ゴミ集積場] --> waste([廃棄物])
+  waste --> waste_incinerator_kraftwerk[ゴミ償却発電所]

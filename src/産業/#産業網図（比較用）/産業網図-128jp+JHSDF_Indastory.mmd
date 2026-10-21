@@ -1,0 +1,54 @@
+%% Mermaid Live Editor（https://mermaid.live/）形式で記述しています。
+flowchart LR
+  Raffinerie[製油所] --> GasolineA7([ガソリン（製油所→油槽所）]) & Plastik3([プラスチックペレット（パレット）]) & Chemicals0([化成品])
+  GasolineA7 --> oil_storage[油槽所] --> GasolineB7([ガソリン（油槽所→需要先）])
+  GasolineB7 --> TANKE1[ガソリンスタンド]
+  ForestPlantation[伐採所] --> Holz([木材])
+  Holz --> Kohlegrube[炭鉱] --> Kohle1([石炭])
+  Kohle1 --> Kohlekraftwerk[石炭火力発電所]
+  Holz --> Saegewerk[製材所] --> Bretter([材木]) & woodchip([木材チップ])
+  woodchip & Chemicals0 --> Papierfabrik[製紙工場] --> Papier3([紙（パレット）])
+  woodchip --> BiomassPowerPlant_kraftwerk[バイオマス発電所]
+  Papier3 & Chemicals0 --> Druckerei[印刷工場] --> Bucher2([本（小口混載）])
+  Bucher2 --> publisher[出版社]
+  Papier3 & Plastik3 --> houshold_goods_factory[生活雑貨工場] --> household_goods2([生活雑貨（小口混載）]) & household_goods3([生活雑貨（パレット）])
+  suiden[水田] --> genmai2([玄米])
+  genmai2 --> komesouko[米倉庫] --> hakumai2([白米（小口混載）]) & hakumai3([白米（パレット）])
+  hakumai3 --> shuzousho[酒造所] --> sake2([日本酒（小口混載）]) & sake3([日本酒（パレット）])
+  sake2 --> sakaya[酒屋]
+  fish_swarm[漁場] --> fishA13([魚（市場へ）])
+  fishA13 --> uoichiba[魚市場]--> fishB13([魚（需要先へ、鮮魚）])
+  fishB13 --> fish_processing_plant[水産加工場] --> processed_fish12([水産加工品（冷蔵加工食品）])
+  hatake[畑] --> vegetableA2([野菜（農協へ、小口混載）])
+  vegetableA2 --> noukyou_souko[農協倉庫] --> vegetableB2([野菜（需要先へ、小口混載）]) & vegetableB3([野菜（需要先へ、パレット）])
+  vegetableB3 & processed_fish12 & hakumai3 --> bento_plant[弁当工場] --> bento12([弁当（冷蔵加工食品）])
+  bento12 & household_goods2 & Bucher2 --> konbini[コンビニ]
+  hakumai3 & sake3 & bento12 & vegetableB3 & household_goods3 --> supermarket[スーパーマーケット]
+  Bucher3 --> Bucher34 --> Bucher4([本（国鉄／JRコンテナ）])
+  Bucher4 --> Bucher43 --> Bucher3([本（パレット）])
+  Papier3 --> Papier34 --> Papier4([紙（国鉄／JRコンテナ）])
+  Papier4 --> Papier43 --> Papier3
+  hakumai3 --> hakumai34 --> hakumai4([白米（国鉄／JRコンテナ）])
+  hakumai4 --> hakumai43 --> hakumai3
+  sake3 --> sake34 --> sake4([日本酒（国鉄／JRコンテナ）])
+  sake4 --> sake43 --> sake3
+  vegetableB3 --> vegetableB34 --> vegetableB4([野菜（需要先へ、国鉄／JRコンテナ）])
+  vegetableB4 --> vegetableB43 --> vegetableB3
+  Chemicals0 & Plastik3 --> JHSDF_rubber_factory[ゴム工場] --> Rubber3([ゴム（パレット）])
+  JHSDF_sand_mine[砂採取場] --> Sand1([砂（ばら積み）])
+  Sand1 & Papier3 -->JHSDF_glass_factory[ガラス工場] --> Glass3([ガラス（パレット）])
+  Kohle1 --> JHSDF_ironworks_1900[製鉄所] --> Stahl0([鉄鋼])
+  Stahl0 --> steel_engineering[鉄工所]
+  Stahl0 & Plastik3 --> JHSDF_machine_factory[機械工場] --> Machine3([機械部品（パレット）])
+  Stahl0 & Plastik3 --> JHSDF_electrical_component_factory[電機部品工場] --> Electronics3([電機部品（パレット）])
+  Stahl0 & Plastik3 & Machine3 & Electronics3 & Rubber3 & Glass3 --> JHSDF_car_factory[自動車工場] --> Autos0([自動車])
+  Autos0 --> car_shop[自動車販売店]
+  Electronics3 & Plastik3 -->JHSDF_appliance_factory[家電工場] --> Appliance2([家電（小口混載）])
+  Appliance2 --> Appliance_shop[家電販売店]
+  JHSDF_grain_farm_1900[麦畑] --> grain2([麦（小口混載）])
+  grain2 --> JHSDF_beer_factory[ビール工場] --> beer3([ビール（パレット）])
+  beer3 --> JHSDF_beer_hall_1900[ビヤホール]
+  JHSDF_Limestone_mine[石灰石鉱山] --> Limestone1([石灰石（ばら積み）])
+  Kohle1 & Limestone1 --> JHSDF_cement_factory_1900[セメント工場] --> Cement1[セメント]
+  Cement1 --> JHSDF_Concrete_factory[コンクリート工場]
+  vegetableB2 --> JHSDF_yaoya[八百屋]

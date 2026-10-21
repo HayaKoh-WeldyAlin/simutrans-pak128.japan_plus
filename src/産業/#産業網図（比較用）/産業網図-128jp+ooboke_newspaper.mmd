@@ -1,0 +1,42 @@
+%% Mermaid Live Editor（https://mermaid.live/）形式で記述しています。
+flowchart LR
+  Raffinerie[製油所] --> GasolineA7([ガソリン（製油所→油槽所）]) & Plastik3([プラスチックペレット（パレット）]) & Chemicals0([化成品])
+  GasolineA7 --> oil_storage[油槽所] --> GasolineB7([ガソリン（油槽所→需要先）])
+  GasolineB7 --> TANKE1[ガソリンスタンド]
+  ForestPlantation[伐採所] --> Holz([木材])
+  Holz --> Kohlegrube[炭鉱] --> Kohle1([石炭])
+  Kohle1 --> Kohlekraftwerk[石炭火力発電所]
+  Holz --> Saegewerk[製材所] --> Bretter([材木]) & woodchip([木材チップ])
+  woodchip & Chemicals0 --> Papierfabrik[製紙工場] --> Papier3([紙（パレット）])
+  woodchip --> BiomassPowerPlant_kraftwerk[バイオマス発電所]
+  Papier3 & Chemicals0 --> Druckerei[印刷工場] --> Bucher2([本（小口混載）])
+  Bucher2 --> publisher[出版社]
+  Papier3 & Plastik3 --> houshold_goods_factory[生活雑貨工場] --> household_goods2([生活雑貨（小口混載）]) & household_goods3([生活雑貨（パレット）])
+  suiden[水田] --> genmai2([玄米])
+  genmai2 --> komesouko[米倉庫] --> hakumai2([白米（小口混載）]) & hakumai3([白米（パレット）])
+  hakumai3 --> shuzousho[酒造所] --> sake2([日本酒（小口混載）]) & sake3([日本酒（パレット）])
+  sake2 --> sakaya[酒屋]
+  fish_swarm[漁場] --> fishA13([魚（市場へ）])
+  fishA13 --> uoichiba[魚市場]--> fishB13([魚（需要先へ、鮮魚）])
+  fishB13 --> fish_processing_plant[水産加工場] --> processed_fish12([水産加工品（冷蔵加工食品）])
+  hatake[畑] --> vegetableA2([野菜（農協へ、小口混載）])
+  vegetableA2 --> noukyou_souko[農協倉庫] --> vegetableB2([野菜（需要先へ、小口混載）]) & vegetableB3([野菜（需要先へ、パレット）])
+  vegetableB3 & processed_fish12 & hakumai3 --> bento_plant[弁当工場] --> bento12([弁当（冷蔵加工食品）])
+  bento12 & household_goods2 & Bucher2 --> konbini[コンビニ]
+  hakumai3 & sake3 & bento12 & vegetableB3 & household_goods3 --> supermarket[スーパーマーケット]
+  Bucher3 --> Bucher34 --> Bucher4([本（国鉄／JRコンテナ）])
+  Bucher4 --> Bucher43 --> Bucher3([本（パレット）])
+  Papier3 --> Papier34 --> Papier4([紙（国鉄／JRコンテナ）])
+  Papier4 --> Papier43 --> Papier3
+  hakumai3 --> hakumai34 --> hakumai4([白米（国鉄／JRコンテナ）])
+  hakumai4 --> hakumai43 --> hakumai3
+  sake3 --> sake34 --> sake4([日本酒（国鉄／JRコンテナ）])
+  sake4 --> sake43 --> sake3
+  vegetableB3 --> vegetableB34 --> vegetableB4([野菜（需要先へ、国鉄／JRコンテナ）])
+  vegetableB4 --> vegetableB43 --> vegetableB3
+  Papier3 & Chemicals0 --> shinbunsha01[新聞社] --> newspaper6([新聞（小荷物）])
+  newspaper6 --> shinbun_hanbaiten[新聞販売店]
+  bento12 & household_goods2 & Bucher2 & sake2 & newspaper6 --> CVS[コンビニエンスストア]
+  bento12 & household_goods2 & Bucher2 & newspaper6 --> eki_baiten_p_01[駅売店（拠点駅）]
+  household_goods2 & Bucher2 & newspaper6 --> eki_baiten_p_02[駅売店（都市圏駅）]
+  bento12 & household_goods2 & Bucher2 & newspaper6 --> eki_baiten_p_03[駅売店（観光地駅）]

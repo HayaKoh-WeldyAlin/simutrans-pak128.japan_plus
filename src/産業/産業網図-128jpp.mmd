@@ -1,0 +1,56 @@
+%% Mermaid Live Editor（https://mermaid.live/）形式で記述しています。
+flowchart LR
+  subgraph Holz_Chain[木材チェーン]
+   Faellstelle[伐採所] --> Holz([丸太])
+   Holz --> Saegewerk[製材所] --> Bretter([製材]) & Holzpane([木材チップ])
+    Bretter --> Moebelfabrik[家具工場] --> Moebel([家具])
+    Moebel --> Moebelhaus[家具量販店]
+    Holzpane --> Biomasse_kraftwerk[バイオマス発電所]
+  end
+  subgraph Kohle_Chain[石炭チェーン]
+   Kohlebergwerk[炭鉱] --> Kohle([石炭])
+   Kohle --> Kohle_kraftwerk[石炭火力発電所]
+  end
+  subgraph Eisen_Chain[鉄チェーン]
+   Eisenmine[鉄鉱山] --> Eisenerz([鉄鉱石])
+   Eisenerz --> Stahlwerk[製鉄所]
+   Kohle --> Stahlwerk
+   Stahlwerk --> Stahl([鉄鋼])
+  end
+  subgraph Faser_Chain[繊維チェーン（未作成）]
+   Faser([繊維]) --> Naeherei[縫製工場] --> Kleidung([衣類])
+   Kleidung --> Bekleidungsgeschaeft[衣料品店]
+  end
+  subgraph Oel_Chain[石油チェーン]
+   Oelfeld[油田] --> Oel([原油])
+   Oel --> Raffinerie[製油所] --> Benzin([ガソリン]) & Schwerol([重油]) & Naphtha([ナフサ])
+   Benzin --> Tankstelle[ガソリンスタンド]
+   Schwerol --> Oel_kraftwerk[石油火力発電所\n（未作成）]
+  end
+  subgraph Chemikalien_Chain[化成品チェーン]
+   Naphtha --> chemischeAnlage[化学工場] --> Chemikalien([化成品]) & Plastik([プラスチック]) & Gummi([ゴム]) & Faser & Druckfarbe([印刷インキ])
+   Pflanzenoel([植物油]) --> Bio_chemischeAnlage[バイオ化学工場\n（未作成）] --> Chemikalien & Plastik & Gummi & Faser & Druckfarbe
+  end
+  subgraph Papier_Chain[紙チェーン]
+   Holzpane & Chemikalien --> Papierfabrik[製紙工場] --> Papier([紙])
+   Papier & Druckfarbe --> Druckerei[印刷所] --> Bucher([書籍]) & Zeitung([新聞])
+   Papier & Druckfarbe --> Verlag[出版社] --> Bucher   
+   Bucher --> Buchhandlung[書店]
+  end
+  subgraph Waren_Chain[雑貨チェーン]
+   Plastik & Papier & Stahl --> Gemischtwarenfabrik[生活雑貨工場] --> Waren([雑貨])
+   Waren --> Gemischtwarenladen[雑貨店]
+  end
+  subgraph Reis_Chain[米チェーン（未作成）]
+   Reisbauern[米農家] --> roh_Reis([籾米])
+   roh_Reis --> Landaufzug[カントリーエレベーター] --> brauner_Reis([玄米])
+   brauner_Reis --> Reismuehle[精米所] --> weisser_Reis([白米]) & Reiskleie([米糠])
+   Reiskleie --> Reiskleieoel-Fabrik[糠油工場] --> Speiseoel([食用油]) & Pflanzenoel
+  end
+  subgraph Abfall_Chain[廃棄物チェーン]
+   Mullabfuhrstation[ゴミ収集所] --> Abfall([廃棄物]) & Sperrmull([大型廃棄物])
+   Abfall --> Recyclinganlage[リサイクル工場] -.-> Plastik & Papier & Stahl
+   Sperrmull --> Recyclinganlage_Sperrmull[リサイクル工場] -.-> Plastik & Stahl & Holzpane
+   Abfall --> Abfall_kraftwerk[清掃工場]
+  end
+  
