@@ -1,0 +1,22 @@
+#25 水産物　単位はトン
+#水揚げされてすぐの水産物。スピードボーナスはかなり高い。
+-----------------------
+#魚類
+obj=good
+name=catg_Fisch
+metric=tonnen
+catg=25
+value=0
+speed_bonus=0
+weight_per_unit=0
+-----------------------
+#鮮魚
+obj=good
+name=frischer_Fisch
+metric=tonnen
+catg=25
+value=420
+speed_bonus=8
+weight_per_unit=1000
+mapcolor=144
+-----------------------
