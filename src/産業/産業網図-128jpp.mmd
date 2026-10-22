@@ -36,6 +36,8 @@ flowchart LR
    Papier & Druckfarbe --> Druckerei[印刷所] --> Bucher([書籍]) & Zeitung([新聞])
    Papier & Druckfarbe --> Verlag[出版社] --> Bucher   
    Bucher --> Buchhandlung[書店]
+   Papier & Druckfarbe --> Zeitungsunternehmen[新聞社] --> Zeitung   
+   Zeitung --> Zeitungsladen[新聞販売店]
   end
   subgraph Waren_Chain[雑貨チェーン]
    Plastik & Papier & Stahl --> Gemischtwarenfabrik[生活雑貨工場] --> Waren([雑貨])
