@@ -5,7 +5,7 @@
 #                             Language: en English                             #
 #                                Encoding: UTF-8                               #
 #                               Font : m+10r.bdf                               #
-#                            Date Created: 2026/10/20                          #
+#                            Date Created: 2026/10/22                          #
 #                                                                              #
 #                                   authors:                                   #
 #                          HAYASHIDA Kousei - HayaKoh                          #
@@ -854,6 +854,10 @@ jpp_road_Strasse70
 70km/h high-standard road
 jpp_road_Strasse80
 80km/h temporary expressway
+#_______________________________Bridge__________________________________________
+#_______________________________Bridge__________________________________________
+jpp_road_Strassenbruecke60
+60km/h main road bridge
 #_______________________________Roadsign________________________________________
 #_______________________________Traffic signals and signs_______________________
 jpp_roadsign_Strassenampel1970_links_white

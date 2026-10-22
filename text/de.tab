@@ -5,7 +5,7 @@
 #                             Language: de Deutsch                             #
 #                                Encoding: UTF-8                               #
 #                               Font : m+10r.bdf                               #
-#                            Date Created: 2026/10/20                          #
+#                            Date Created: 2026/10/22                          #
 #                                                                              #
 #                                   authors:                                   #
 #                          HAYASHIDA Kousei - HayaKoh                          #
@@ -854,6 +854,10 @@ jpp_road_Strasse70
 70 km/h Hochwertige Straße
 jpp_road_Strasse80
 80 km/h Temporäre Schnellstraße
+#_______________________________Bridge__________________________________________
+#_______________________________Brücke____________________________________________
+jpp_road_Strassenbruecke60
+60 km/h Hauptstraßenbrücke
 #_______________________________Roadsign________________________________________
 #_______________________________Ampeln und Verkehrszeichen______________________
 jpp_roadsign_Strassenampel1970_links_white
