@@ -580,8 +580,14 @@ jpp_factory_Papier_Verlag
 出版社
 jpp_factory_Papier_Druckerei
 印刷厂
+jpp_factory_Papier_Zeitungsunternehmen
+报社
 jpp_factory_Papier_Buchhandlung
 书店
+jpp_factory_Papier_Zeitungsladen1910
+报刊店
+jpp_factory_Papier_Zeitungsladen1960
+报刊店
 #----Chemical Chain
 #----化工产业链
 jpp_factory_Chemikalien_chemischeAnlage
