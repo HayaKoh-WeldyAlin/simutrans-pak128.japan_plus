@@ -5,7 +5,7 @@
 #                             Language: cn Sim. Chinese                        #
 #                                Encoding: UTF-8                               #
 #                               Font : m+10r.bdf                               #
-#                            Date Created: 2026/10/22                          #
+#                            Date Created: 2026/10/23                          #
 #                                                                              #
 #                                   authors:                                   #
 #                          HAYASHIDA Kousei - HayaKoh                          #
@@ -836,6 +836,66 @@ yakusho01
 町政府
 jpp_tow_ModernesRathaus1
 市政府
+#_______________________________Building-stop___________________________________
+#_______________________________车站____________________________________________
+#----Bushaltestelle_Sonnenblume
+#----杆式公交车站（向日葵式）
+jpp_stop_Bushaltestelle_Sonnenblume
+杆式公交车站
+jpp_stop_Bushaltestelle_Sonnenblume_Post
+杆式公交车站（附信箱）
+jpp_stop_Bushaltestelle_Sonnenblume_Bank
+杆式公交车站（附長椅）
+jpp_stop_Bushaltestelle_Sonnenblume_Bank_Post
+杆式公交车站（附長椅和信箱）
+jpp_stop_Bushaltestelle_Sonnenblume_Dach
+杆式公交车站（有頂棚）
+jpp_stop_Bushaltestelle_Sonnenblume_Dach_Post
+杆式公交车站（有頂棚和信箱）
+jpp_stop_Bushaltestelle_Sonnenblume_Dach_Bank
+杆式公交车站（有頂棚和長椅）
+jpp_stop_Bushaltestelle_Sonnenblume_Dach_Bank_Post
+杆式公交车站（有頂棚、長椅和信箱）
+#----Bushaltestelle_weisse-Lilie
+#----双杆式公交车站（白百合式）
+jpp_stop_Bushaltestelle_weisse-Lilie
+双杆式公交车站
+jpp_stop_Bushaltestelle_weisse-Lilie_Post
+双杆式公交车站（附信箱）
+jpp_stop_Bushaltestelle_weisse-Lilie_Bank
+双杆式公交车站（附長椅）
+jpp_stop_Bushaltestelle_weisse-Lilie_Bank_Post
+双杆式公交车站（附長椅和信箱）
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach
+双杆式公交车站（有頂棚）
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach_Post
+双杆式公交车站（有頂棚和信箱）
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach_Bank
+双杆式公交车站（有頂棚和長椅）
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach_Bank_Post
+双杆式公交车站（有頂棚、長椅和信箱）
+#----Bushaltestelle_Laterne
+#----灯箱式公交车站（行灯式）
+jpp_stop_Bushaltestelle_Laterne
+灯箱式公交车站
+jpp_stop_Bushaltestelle_Laterne_Post
+灯箱式公交车站（附信箱）
+jpp_stop_Bushaltestelle_Laterne_Bank
+灯箱式公交车站（附長椅）
+jpp_stop_Bushaltestelle_Laterne_Bank_Post
+灯箱式公交车站（附長椅和信箱）
+jpp_stop_Bushaltestelle_Laterne_Dach
+灯箱式公交车站（有頂棚）
+jpp_stop_Bushaltestelle_Laterne_Dach_Post
+灯箱式公交车站（有頂棚和信箱）
+jpp_stop_Bushaltestelle_Laterne_Dach_Bank
+灯箱式公交车站（有頂棚和長椅）
+jpp_stop_Bushaltestelle_Laterne_Dach_Bank_Post
+灯箱式公交车站（有頂棚、長椅和信箱）
+#----Briefkasten
+#----信箱
+jpp_stop_Briefkasten
+信箱
 #_______________________________Road____________________________________________
 #_______________________________路______________________________________________
 jpp_road_Strecke20

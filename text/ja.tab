@@ -5,7 +5,7 @@
 #                             Language: ja Japanese                            #
 #                                Encoding: UTF-8                               #
 #                               Font : m+10r.bdf                               #
-#                            Date Created: 2026/10/22                          #
+#                            Date Created: 2026/10/23                          #
 #                                                                              #
 #                                   authors:                                   #
 #                          HAYASHIDA Kousei - HayaKoh                          #
@@ -90,8 +90,6 @@ Japan_Temporary_TraninStop
 仮乗降場
 Japan_Temporary_TraninStop_Extension
 仮乗降場(延長用)
-teiryuujo000
-停留所
 warehouse_stop
 荷捌所（倉庫）
 yakusho01
@@ -272,8 +270,6 @@ Koukamk2_c_StationBlg
 高架駅舎C
 #
 #_______________________________道路ツール_____________________________________
-teiryuujo001
-待合場つき停留所
 truck_terminal001
 荷卸場
 #
@@ -1210,6 +1206,66 @@ jpp_res_wilson_Landwirtschaftliche0I
 #_______________________________役場____________________________________________
 jpp_tow_ModernesRathaus1
 市役所
+#_______________________________Building-stop___________________________________
+#_______________________________駅______________________________________________
+#----Bushaltestelle_Sonnenblume
+#----ひまわり型バス停（単柱型）
+jpp_stop_Bushaltestelle_Sonnenblume
+ひまわり型バス停
+jpp_stop_Bushaltestelle_Sonnenblume_Post
+ひまわり型バス停（ポスト付き）
+jpp_stop_Bushaltestelle_Sonnenblume_Bank
+ひまわり型バス停（ベンチ付き）
+jpp_stop_Bushaltestelle_Sonnenblume_Bank_Post
+ひまわり型バス停（ベンチ・ポスト付き）
+jpp_stop_Bushaltestelle_Sonnenblume_Dach
+ひまわり型バス停（屋根付き）
+jpp_stop_Bushaltestelle_Sonnenblume_Dach_Post
+ひまわり型バス停（屋根・ポスト付き）
+jpp_stop_Bushaltestelle_Sonnenblume_Dach_Bank
+ひまわり型バス停（屋根・ベンチ付き）
+jpp_stop_Bushaltestelle_Sonnenblume_Dach_Bank_Post
+ひまわり型バス停（屋根・ベンチ・ポスト付き）
+#----Bushaltestelle_weisse-Lilie
+#----しらゆり型バス停（双柱型）
+jpp_stop_Bushaltestelle_weisse-Lilie
+しらゆり型バス停
+jpp_stop_Bushaltestelle_weisse-Lilie_Post
+しらゆり型バス停（ポスト付き）
+jpp_stop_Bushaltestelle_weisse-Lilie_Bank
+しらゆり型バス停（ベンチ付き）
+jpp_stop_Bushaltestelle_weisse-Lilie_Bank_Post
+しらゆり型バス停（ポスト・ベンチ付き）
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach
+しらゆり型バス停（屋根付き）
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach_Post
+しらゆり型バス停（屋根・ポスト付き）
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach_Bank
+しらゆり型バス停（屋根・ベンチ付き）
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach_Bank_Post
+しらゆり型バス停（屋根・ベンチ・ポスト付き）
+#----Bushaltestelle_Laterne
+#----行灯型バス停
+jpp_stop_Bushaltestelle_Laterne
+行灯型バス停
+jpp_stop_Bushaltestelle_Laterne_Post
+行灯型バス停（ポスト付き）
+jpp_stop_Bushaltestelle_Laterne_Bank
+行灯型バス停（ベンチ付き）
+jpp_stop_Bushaltestelle_Laterne_Bank_Post
+行灯型バス停（ポスト・ベンチ付き）
+jpp_stop_Bushaltestelle_Laterne_Dach
+行灯型バス停（屋根付き）
+jpp_stop_Bushaltestelle_Laterne_Dach_Post
+行灯型バス停（屋根・ポスト付き）
+jpp_stop_Bushaltestelle_Laterne_Dach_Bank
+行灯型バス停（屋根・ベンチ付き）
+jpp_stop_Bushaltestelle_Laterne_Dach_Bank_Post
+行灯型バス停（屋根・ベンチ・ポスト付き）
+#----Briefkasten
+#----郵便ポスト
+jpp_stop_Briefkasten
+郵便ポスト
 #_______________________________Road____________________________________________
 #_______________________________道路____________________________________________
 jpp_road_Strecke20

@@ -5,7 +5,7 @@
 #                             Language: en English                             #
 #                                Encoding: UTF-8                               #
 #                               Font : m+10r.bdf                               #
-#                            Date Created: 2026/10/22                          #
+#                            Date Created: 2026/10/23                          #
 #                                                                              #
 #                                   authors:                                   #
 #                          HAYASHIDA Kousei - HayaKoh                          #
@@ -836,6 +836,66 @@ Town Hall
 Town Hall
 jpp_tow_ModernesRathaus1
 City Hall
+#_______________________________Building-stop___________________________________
+#_______________________________Station_________________________________________
+#----Bushaltestelle_Sonnenblume
+#----Flagpole-type bus stop (Sunflower-type)
+jpp_stop_Bushaltestelle_Sonnenblume
+Flagpole-type bus stop
+jpp_stop_Bushaltestelle_Sonnenblume_Post
+Flagpole-type bus stop (with a mailbox)
+jpp_stop_Bushaltestelle_Sonnenblume_Bank
+Flagpole-type bus stop (with bench)
+jpp_stop_Bushaltestelle_Sonnenblume_Bank_Post
+Flagpole-type bus stop (with bench and mailbox)
+jpp_stop_Bushaltestelle_Sonnenblume_Dach
+Flagpole-type bus stop (with a roof)
+jpp_stop_Bushaltestelle_Sonnenblume_Dach_Post
+Flagpole-type bus stop (with roof and mailbox)
+jpp_stop_Bushaltestelle_Sonnenblume_Dach_Bank
+Flagpole-type bus stop (with roof and bench)
+jpp_stop_Bushaltestelle_Sonnenblume_Dach_Bank_Post
+Flagpole-type bus stop (with roof, bench, and mailbox)
+#----Bushaltestelle_weisse-Lilie
+#----Twin-post type bus stop (White-lily type)
+jpp_stop_Bushaltestelle_weisse-Lilie
+Twin-post type bus stop
+jpp_stop_Bushaltestelle_weisse-Lilie_Post
+Twin-post type bus stop (with a mailbox)
+jpp_stop_Bushaltestelle_weisse-Lilie_Bank
+Twin-post type bus stop (with bench)
+jpp_stop_Bushaltestelle_weisse-Lilie_Bank_Post
+Twin-post type bus stop (with bench and mailbox)
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach
+Twin-post type bus stop (with a roof)
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach_Post
+Twin-post type bus stop (with roof and mailbox)
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach_Bank
+Twin-post type bus stop (with roof and bench)
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach_Bank_Post
+Twin-post type bus stop (with roof, bench, and mailbox)
+#----Bushaltestelle_Laterne
+#----Lightbox-type bus stop (Lantern-type)
+jpp_stop_Bushaltestelle_Laterne
+Lightbox-type bus stop
+jpp_stop_Bushaltestelle_Laterne_Post
+Lightbox-type bus stop (with a mailbox)
+jpp_stop_Bushaltestelle_Laterne_Bank
+Lightbox-type bus stop (with bench)
+jpp_stop_Bushaltestelle_Laterne_Bank_Post
+Lightbox-type bus stop (with bench and mailbox)
+jpp_stop_Bushaltestelle_Laterne_Dach
+Lightbox-type bus stop (with a roof)
+jpp_stop_Bushaltestelle_Laterne_Dach_Post
+Lightbox-type bus stop (with roof and mailbox)
+jpp_stop_Bushaltestelle_Laterne_Dach_Bank
+Lightbox-type bus stop (with roof and bench)
+jpp_stop_Bushaltestelle_Laterne_Dach_Bank_Post
+Lightbox-type bus stop (with roof, bench, and mailbox)
+#----Briefkasten
+#----Mailbox
+jpp_stop_Briefkasten
+Mailbox
 #_______________________________Road____________________________________________
 #_______________________________Road____________________________________________
 jpp_road_Strecke20

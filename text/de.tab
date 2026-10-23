@@ -5,7 +5,7 @@
 #                             Language: de Deutsch                             #
 #                                Encoding: UTF-8                               #
 #                               Font : m+10r.bdf                               #
-#                            Date Created: 2026/10/22                          #
+#                            Date Created: 2026/10/23                          #
 #                                                                              #
 #                                   authors:                                   #
 #                          HAYASHIDA Kousei - HayaKoh                          #
@@ -836,6 +836,66 @@ Rathaus
 Rathaus
 jpp_tow_ModernesRathaus1
 Rathaus
+#_______________________________Building-stop____________________________________
+#_______________________________Station__________________________________________
+#----Bushaltestelle_Sonnenblume
+#----Bushaltestelle vom Typ Mast (Typ Sonnenblume)
+jpp_stop_Bushaltestelle_Sonnenblume
+Bushaltestelle vom Typ Mast
+jpp_stop_Bushaltestelle_Sonnenblume_Post
+Bushaltestelle vom Typ Mast (mit Briefkasten)
+jpp_stop_Bushaltestelle_Sonnenblume_Bank
+Bushaltestelle vom Typ Mast (mit Bank)
+jpp_stop_Bushaltestelle_Sonnenblume_Bank_Post
+Bushaltestelle vom Typ Mast (mit Briefkasten und Bank)
+jpp_stop_Bushaltestelle_Sonnenblume_Dach
+Bushaltestelle vom Typ Mast (mit Dach)
+jpp_stop_Bushaltestelle_Sonnenblume_Dach_Post
+Bushaltestelle vom Typ Mast (mit Dach und Briefkasten)
+jpp_stop_Bushaltestelle_Sonnenblume_Dach_Bank
+Bushaltestelle vom Typ Mast (mit Dach und Bank)
+jpp_stop_Bushaltestelle_Sonnenblume_Dach_Bank_Post
+Bushaltestelle vom Typ Mast (mit Dach, Bank und Briefkasten)
+#----Bushaltestelle_weisse-Lilie
+#----Bushaltestelle vom Typ Zweiholm (Typ weiße Lilie)
+jpp_stop_Bushaltestelle_weisse-Lilie
+Bushaltestelle vom Typ Zweiholm
+jpp_stop_Bushaltestelle_weisse-Lilie_Post
+Bushaltestelle vom Typ Zweiholm (mit Briefkasten)
+jpp_stop_Bushaltestelle_weisse-Lilie_Bank
+Bushaltestelle vom Typ Zweiholm (mit Bank)
+jpp_stop_Bushaltestelle_weisse-Lilie_Bank_Post
+Bushaltestelle vom Typ Zweiholm (mit Briefkasten und Bank)
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach
+Bushaltestelle vom Typ Zweiholm (mit Dach)
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach_Post
+Bushaltestelle vom Typ Zweiholm (mit Dach und Briefkasten)
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach_Bank
+Bushaltestelle vom Typ Zweiholm (mit Dach und Bank)
+jpp_stop_Bushaltestelle_weisse-Lilie_Dach_Bank_Post
+Bushaltestelle vom Typ Zweiholm (mit Dach, Bank und Briefkasten)
+#----Bushaltestelle_Laterne
+#----Bushaltestelle vom Typ Laterne
+jpp_stop_Bushaltestelle_Laterne
+Bushaltestelle vom Typ Laterne
+jpp_stop_Bushaltestelle_Laterne_Post
+Bushaltestelle vom Typ Laterne (mit Briefkasten)
+jpp_stop_Bushaltestelle_Laterne_Bank
+Bushaltestelle vom Typ Laterne (mit Bank)
+jpp_stop_Bushaltestelle_Laterne_Bank_Post
+Bushaltestelle vom Typ Laterne (mit Briefkasten und Bank)
+jpp_stop_Bushaltestelle_Laterne_Dach
+Bushaltestelle vom Typ Laterne (mit Dach)
+jpp_stop_Bushaltestelle_Laterne_Dach_Post
+Bushaltestelle vom Typ Laterne (mit Dach und Briefkasten)
+jpp_stop_Bushaltestelle_Laterne_Dach_Bank
+Bushaltestelle vom Typ Laterne (mit Dach und Bank)
+jpp_stop_Bushaltestelle_Laterne_Dach_Bank_Post
+Bushaltestelle vom Typ Laterne (mit Dach, Bank und Briefkasten)
+#----Briefkasten
+#----Briefkasten
+jpp_stop_Briefkasten
+Briefkasten
 #_______________________________Road____________________________________________
 #_______________________________Straße__________________________________________
 jpp_road_Strecke20
