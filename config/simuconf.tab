@@ -304,7 +304,46 @@ tree_climates = 0
 # 木がまったくない気候（現時点では極気候のみ）
 no_tree_climates = 128
 
-# 湖の生成における最大水位 (0=湖なし)
+# 0: 木は一切作成されません（メモリを約30％節約し、
+# 小型マシンなら、季節の切り替えがずっとスムーズに行える）
+# 1: 通常の楕円林における樹木の分布
+# 2: 湿度に基づく気候生成が有効になっている場合、湿度に基づいて木を配置する（そうでない場合は1を使用する）
+tree_distribution = 2
+
+################################# 地形 #################################
+# 新しい地図におけるデフォルトの最低水位（海面）
+groundwater = 0
+max_mountain_height = 320
+map_roughness = 3
+winter_snowline = 7
+
+# 気候の高さ = 最低, 最高
+desert_height     = -3,1
+tropic_height     = -3,5
+mediterran_height = -2,11
+temperate_height  =  0,11
+tundra_height     =  4,11
+rocky_height      =  6,15
+arctic_height     = 13,20
+
+# もう一方は湿度に拠るもの
+climate_temperature_borders[0]=25
+climate_temperature_borders[1]=20
+climate_temperature_borders[2]=15
+climate_temperature_borders[3]=0
+climate_temperature_borders[4]=-10
+desert_humidity = 20
+tropic_humidity = 80
+moisture_change_land = 1
+moisture_change_water = 1
+
+# どの気候ジェネレーターが好ましいか（現時点では`heights`=高度と`humidity`=湿度のみ）
+climate_generator = humidity
+
+# 気候パッチの相対的な大きさ（変更しない方がよい）
+patch_size_percentage = 15
+
+# 湖の生成における最大水位 (-128以下または`groundwater`以下=湖なし)
 lake_height = 0
 
 ###################################その他##################################
