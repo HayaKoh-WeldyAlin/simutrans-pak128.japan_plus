@@ -5,7 +5,7 @@
 #                             Language: cn Sim. Chinese                        #
 #                                Encoding: UTF-8                               #
 #                               Font : m+10r.bdf                               #
-#                            Date Created: 2026/10/23                          #
+#                            Date Created: 2026/10/31                          #
 #                                                                              #
 #                                   authors:                                   #
 #                          HAYASHIDA Kousei - HayaKoh                          #
@@ -922,6 +922,8 @@ jpp_road_Strasse80
 限速80公里/小时的临时高速公路
 #_______________________________Bridge__________________________________________
 #_______________________________桥梁____________________________________________
+jpp_road_Eisenplattenbruecke30
+限速30公里/小时的钢板桥
 jpp_road_Strassenbruecke60
 限速60公里/小时的主干道桥
 #_______________________________Roadsign________________________________________

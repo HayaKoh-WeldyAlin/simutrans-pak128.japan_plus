@@ -5,7 +5,7 @@
 #                             Language: de Deutsch                             #
 #                                Encoding: UTF-8                               #
 #                               Font : m+10r.bdf                               #
-#                            Date Created: 2026/10/23                          #
+#                            Date Created: 2026/10/31                          #
 #                                                                              #
 #                                   authors:                                   #
 #                          HAYASHIDA Kousei - HayaKoh                          #
@@ -922,6 +922,8 @@ jpp_road_Strasse80
 80 km/h Temporäre Schnellstraße
 #_______________________________Bridge__________________________________________
 #_______________________________Brücke____________________________________________
+jpp_road_Eisenplattenbruecke30
+30 km/h Eisenplattenbrücke
 jpp_road_Strassenbruecke60
 60 km/h Hauptstraßenbrücke
 #_______________________________Roadsign________________________________________
@@ -1120,7 +1122,6 @@ jpp_auto_Kleinbus1992_Spielerfarbe1
 Kleinbusim Modelljahr 1992 (Spielerfarbe 1)
 jpp_auto_Kleinbus1992_Spielerfarbe2
 Kleinbusim Modelljahr 1992 (Spielerfarbe 2)
-jpp_auto_Kleinbus2006_kurz_Spielerfarbe1
 #----Kleinbus2006
 #----Kleinbusim Modelljahr 2006
 jpp_auto_Kleinbus2006_Spielerfarbe1
