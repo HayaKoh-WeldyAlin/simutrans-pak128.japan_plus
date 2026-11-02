@@ -1,16 +1,16 @@
 §###############################################################################
-#                                                                              #
-#                Simutrans Scenario Specific Translation File                  #
-#                              Scenario: pak128.Japan+                         #
-#                             Language: de Deutsch                             #
-#                                Encoding: UTF-8                               #
-#                               Font : m+10r.bdf                               #
-#                            Date Created: 2026/10/31                          #
-#                                                                              #
-#                                   authors:                                   #
-#                          HAYASHIDA Kousei - HayaKoh                          #
-#                                    note:                                     #
-#                                                                              #
+#                                       #
+#        Simutrans Scenario Specific Translation File         #
+#               Scenario: pak128.Japan+             #
+#               Language: de Deutsch               #
+#                Encoding: UTF-8                #
+#                Font : m+10r.bdf                #
+#              Date Created: 2026/11/02             #
+#                                       #
+#                  authors:                  #
+#             HAYASHIDA Kousei - HayaKoh             #
+#                  note:                   #
+#                                       #
 ################################################################################
 #_______________________________menu_text_______________________________________
 #_______________________________Menütext________________________________________
@@ -932,172 +932,178 @@ jpp_roadsign_Strassenampel1970_links_white
 Ampel für Linksverkehr im Modelljahr 1970 (weiß)
 #_______________________________Vehicle-Track___________________________________
 #_______________________________Schienenfahrzeuge_______________________________
-#----JNRPendlerzug1
-#----Pendlerzug im Stil der japanischen Staatsbahnen 1
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Spielerfarbe1
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug A (Spielerfarbe 1)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Spielerfarbe1
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug B (Spielerfarbe 1)
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Spielerfarbe1
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug A (Spielerfarbe 1)
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Spielerfarbe1
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug B (Spielerfarbe 1)
-jpp_zug_JNRPendlerzug1_Zwischen4_Spielerfarbe1
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Mittlerefahrzeug (Spielerfarbe 1)
-jpp_zug_JNRPendlerzug1_Zwischen6_Spielerfarbe1
-Pendlerzug im Stil der japanischen Staatsbahnen 1 6-türiges Mittlerefahrzeug (Spielerfarbe 1)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Spielerfarbe2
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug A (Spielerfarbe 2)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Spielerfarbe2
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug B (Spielerfarbe 2)
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Spielerfarbe2
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug A (Spielerfarbe 2)
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Spielerfarbe2
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug B (Spielerfarbe 2)
-jpp_zug_JNRPendlerzug1_Zwischen4_Spielerfarbe2
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Mittlerefahrzeug (Spielerfarbe 2)
-jpp_zug_JNRPendlerzug1_Zwischen6_Spielerfarbe2
-Pendlerzug im Stil der japanischen Staatsbahnen 1 6-türiges Mittlerefahrzeug (Spielerfarbe 2)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Hellgluen
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug A (Hellgrün)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Hellgluen
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug B (Hellgrün)
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Hellgluen
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug A (Hellgrün)
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Hellgluen
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug B (Hellgrün)
-jpp_zug_JNRPendlerzug1_Zwischen4_Hellgluen
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Mittlerefahrzeug (Hellgrün)
-jpp_zug_JNRPendlerzug1_Zwischen6_Hellgluen
-Pendlerzug im Stil der japanischen Staatsbahnen 1 6-türiges Mittlerefahrzeug (Hellgrün)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Gluen
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug A (Grün)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Gluen
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug B (Grün)
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Gluen
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug A (Grün)
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Gluen
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug B (Grün)
-jpp_zug_JNRPendlerzug1_Zwischen4_Gluen
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Mittlerefahrzeug (Grün)
-jpp_zug_JNRPendlerzug1_Zwischen6_Gluen
-Pendlerzug im Stil der japanischen Staatsbahnen 1 6-türiges Mittlerefahrzeug (Grün)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Smaragd
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug A (Smaragdgrün)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Smaragd
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug B (Smaragdgrün)
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Smaragd
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug A (Smaragdgrün)
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Smaragd
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug B (Smaragdgrün)
-jpp_zug_JNRPendlerzug1_Zwischen4_Smaragd
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Mittlerefahrzeug (Smaragdgrün)
-jpp_zug_JNRPendlerzug1_Zwischen6_Smaragd
-Pendlerzug im Stil der japanischen Staatsbahnen 1 6-türiges Mittlerefahrzeug (Smaragdgrün)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Himmel
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug A (Himmelblau)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Himmel
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug B (Himmelblau)
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Himmel
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug A (Himmelblau)
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Himmel
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug B (Himmelblau)
-jpp_zug_JNRPendlerzug1_Zwischen4_Himmel
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Mittlerefahrzeug (Himmelblau)
-jpp_zug_JNRPendlerzug1_Zwischen6_Himmel
-Pendlerzug im Stil der japanischen Staatsbahnen 1 6-türiges Mittlerefahrzeug (Himmelblau)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Blau
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug A (Blau)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Blau
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug B (Blau)
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Blau
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug A (Blau)
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Blau
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug B (Blau)
-jpp_zug_JNRPendlerzug1_Zwischen4_Blau
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Mittlerefahrzeug (Blau)
-jpp_zug_JNRPendlerzug1_Zwischen6_Blau
-Pendlerzug im Stil der japanischen Staatsbahnen 1 6-türiges Mittlerefahrzeug (Blau)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Gelb
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug A (Gelb)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Gelb
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug B (Gelb)
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Gelb
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug A (Gelb)
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Gelb
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug B (Gelb)
-jpp_zug_JNRPendlerzug1_Zwischen4_Gelb
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Mittlerefahrzeug (Gelb)
-jpp_zug_JNRPendlerzug1_Zwischen6_Gelb
-Pendlerzug im Stil der japanischen Staatsbahnen 1 6-türiges Mittlerefahrzeug (Gelb)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Orange
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug A (Orange)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Orange
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug B (Orange)
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Orange
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug A (Orange)
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Orange
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug B (Orange)
-jpp_zug_JNRPendlerzug1_Zwischen4_Orange
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Mittlerefahrzeug (Orange)
-jpp_zug_JNRPendlerzug1_Zwischen6_Orange
-Pendlerzug im Stil der japanischen Staatsbahnen 1 6-türiges Mittlerefahrzeug (Orange)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Rot
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug A (Rot)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Rot
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug B (Rot)
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Rot
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug A (Rot)
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Rot
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug B (Rot)
-jpp_zug_JNRPendlerzug1_Zwischen4_Rot
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Mittlerefahrzeug (Rot)
-jpp_zug_JNRPendlerzug1_Zwischen6_Rot
-Pendlerzug im Stil der japanischen Staatsbahnen 1 6-türiges Mittlerefahrzeug (Rot)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Brawn
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug A (Braun)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Brawn
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug B (Braun)
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Brawn
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug A (Braun)
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Brawn
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug B (Braun)
-jpp_zug_JNRPendlerzug1_Zwischen4_Brawn
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Mittlerefahrzeug (Braun)
-jpp_zug_JNRPendlerzug1_Zwischen6_Brawn
-Pendlerzug im Stil der japanischen Staatsbahnen 1 6-türiges Mittlerefahrzeug (Braun)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Lila
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug A (Lila)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Lila
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug B (Lila)
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Lila
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug A (Lila)
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Lila
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug B (Lila)
-jpp_zug_JNRPendlerzug1_Zwischen4_Lila
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Mittlerefahrzeug (Lila)
-jpp_zug_JNRPendlerzug1_Zwischen6_Lila
-Pendlerzug im Stil der japanischen Staatsbahnen 1 6-türiges Mittlerefahrzeug (Lila)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Rosa
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug A (Rosa)
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Rosa
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Führungsfahrzeug B (Rosa)
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Rosa
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug A (Rosa)
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Rosa
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Hinteresfahrzeug B (Rosa)
-jpp_zug_JNRPendlerzug1_Zwischen4_Rosa
-Pendlerzug im Stil der japanischen Staatsbahnen 1 4-türiges Mittlerefahrzeug (Rosa)
-jpp_zug_JNRPendlerzug1_Zwischen6_Rosa
-Pendlerzug im Stil der japanischen Staatsbahnen 1 6-türiges Mittlerefahrzeug (Rosa)
+#----Pendlerzug1985
+#----Pendlerzug im Modelljahr 1985
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Spielerfarbe1
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug A (Spielerfarbe 1)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Spielerfarbe1
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug B (Spielerfarbe 1)
+jpp_zug_Pendlerzug1985_Heck4_TypA_Spielerfarbe1
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug A (Spielerfarbe 1)
+jpp_zug_Pendlerzug1985_Heck4_TypB_Spielerfarbe1
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug B (Spielerfarbe 1)
+jpp_zug_Pendlerzug1985_Zwischen4_Spielerfarbe1
+Pendlerzug im Modelljahr 1985 4-türiges Mittlerefahrzeug (Spielerfarbe 1)
+jpp_zug_Pendlerzug1985_Zwischen6_Spielerfarbe1
+Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Spielerfarbe 1)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Spielerfarbe2
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug A (Spielerfarbe 2)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Spielerfarbe2
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug B (Spielerfarbe 2)
+jpp_zug_Pendlerzug1985_Heck4_TypA_Spielerfarbe2
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug A (Spielerfarbe 2)
+jpp_zug_Pendlerzug1985_Heck4_TypB_Spielerfarbe2
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug B (Spielerfarbe 2)
+jpp_zug_Pendlerzug1985_Zwischen4_Spielerfarbe2
+Pendlerzug im Modelljahr 1985 4-türiges Mittlerefahrzeug (Spielerfarbe 2)
+jpp_zug_Pendlerzug1985_Zwischen6_Spielerfarbe2
+Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Spielerfarbe 2)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Hellgluen
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug A (Hellgrün)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Hellgluen
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug B (Hellgrün)
+jpp_zug_Pendlerzug1985_Heck4_TypA_Hellgluen
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug A (Hellgrün)
+jpp_zug_Pendlerzug1985_Heck4_TypB_Hellgluen
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug B (Hellgrün)
+jpp_zug_Pendlerzug1985_Zwischen4_Hellgluen
+Pendlerzug im Modelljahr 1985 4-türiges Mittlerefahrzeug (Hellgrün)
+jpp_zug_Pendlerzug1985_Zwischen6_Hellgluen
+Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Hellgrün)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Gluen
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug A (Grün)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Gluen
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug B (Grün)
+jpp_zug_Pendlerzug1985_Heck4_TypA_Gluen
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug A (Grün)
+jpp_zug_Pendlerzug1985_Heck4_TypB_Gluen
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug B (Grün)
+jpp_zug_Pendlerzug1985_Zwischen4_Gluen
+Pendlerzug im Modelljahr 1985 4-türiges Mittlerefahrzeug (Grün)
+jpp_zug_Pendlerzug1985_Zwischen6_Gluen
+Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Grün)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Smaragd
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug A (Smaragdgrün)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Smaragd
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug B (Smaragdgrün)
+jpp_zug_Pendlerzug1985_Heck4_TypA_Smaragd
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug A (Smaragdgrün)
+jpp_zug_Pendlerzug1985_Heck4_TypB_Smaragd
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug B (Smaragdgrün)
+jpp_zug_Pendlerzug1985_Zwischen4_Smaragd
+Pendlerzug im Modelljahr 1985 4-türiges Mittlerefahrzeug (Smaragdgrün)
+jpp_zug_Pendlerzug1985_Zwischen6_Smaragd
+Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Smaragdgrün)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Himmel
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug A (Himmelblau)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Himmel
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug B (Himmelblau)
+jpp_zug_Pendlerzug1985_Heck4_TypA_Himmel
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug A (Himmelblau)
+jpp_zug_Pendlerzug1985_Heck4_TypB_Himmel
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug B (Himmelblau)
+jpp_zug_Pendlerzug1985_Zwischen4_Himmel
+Pendlerzug im Modelljahr 1985 4-türiges Mittlerefahrzeug (Himmelblau)
+jpp_zug_Pendlerzug1985_Zwischen6_Himmel
+Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Himmelblau)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Blau
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug A (Blau)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Blau
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug B (Blau)
+jpp_zug_Pendlerzug1985_Heck4_TypA_Blau
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug A (Blau)
+jpp_zug_Pendlerzug1985_Heck4_TypB_Blau
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug B (Blau)
+jpp_zug_Pendlerzug1985_Zwischen4_Blau
+Pendlerzug im Modelljahr 1985 4-türiges Mittlerefahrzeug (Blau)
+jpp_zug_Pendlerzug1985_Zwischen6_Blau
+Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Blau)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Gelb
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug A (Gelb)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Gelb
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug B (Gelb)
+jpp_zug_Pendlerzug1985_Heck4_TypA_Gelb
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug A (Gelb)
+jpp_zug_Pendlerzug1985_Heck4_TypB_Gelb
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug B (Gelb)
+jpp_zug_Pendlerzug1985_Zwischen4_Gelb
+Pendlerzug im Modelljahr 1985 4-türiges Mittlerefahrzeug (Gelb)
+jpp_zug_Pendlerzug1985_Zwischen6_Gelb
+Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Gelb)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Orange
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug A (Orange)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Orange
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug B (Orange)
+jpp_zug_Pendlerzug1985_Heck4_TypA_Orange
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug A (Orange)
+jpp_zug_Pendlerzug1985_Heck4_TypB_Orange
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug B (Orange)
+jpp_zug_Pendlerzug1985_Zwischen4_Orange
+Pendlerzug im Modelljahr 1985 4-türiges Mittlerefahrzeug (Orange)
+jpp_zug_Pendlerzug1985_Zwischen6_Orange
+Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Orange)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Rot
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug A (Rot)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Rot
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug B (Rot)
+jpp_zug_Pendlerzug1985_Heck4_TypA_Rot
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug A (Rot)
+jpp_zug_Pendlerzug1985_Heck4_TypB_Rot
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug B (Rot)
+jpp_zug_Pendlerzug1985_Zwischen4_Rot
+Pendlerzug im Modelljahr 1985 4-türiges Mittlerefahrzeug (Rot)
+jpp_zug_Pendlerzug1985_Zwischen6_Rot
+Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Rot)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Brawn
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug A (Braun)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Brawn
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug B (Braun)
+jpp_zug_Pendlerzug1985_Heck4_TypA_Brawn
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug A (Braun)
+jpp_zug_Pendlerzug1985_Heck4_TypB_Brawn
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug B (Braun)
+jpp_zug_Pendlerzug1985_Zwischen4_Brawn
+Pendlerzug im Modelljahr 1985 4-türiges Mittlerefahrzeug (Braun)
+jpp_zug_Pendlerzug1985_Zwischen6_Brawn
+Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Braun)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Lila
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug A (Lila)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Lila
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug B (Lila)
+jpp_zug_Pendlerzug1985_Heck4_TypA_Lila
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug A (Lila)
+jpp_zug_Pendlerzug1985_Heck4_TypB_Lila
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug B (Lila)
+jpp_zug_Pendlerzug1985_Zwischen4_Lila
+Pendlerzug im Modelljahr 1985 4-türiges Mittlerefahrzeug (Lila)
+jpp_zug_Pendlerzug1985_Zwischen6_Lila
+Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Lila)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Rosa
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug A (Rosa)
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Rosa
+Pendlerzug im Modelljahr 1985 4-türiges Führungsfahrzeug B (Rosa)
+jpp_zug_Pendlerzug1985_Heck4_TypA_Rosa
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug A (Rosa)
+jpp_zug_Pendlerzug1985_Heck4_TypB_Rosa
+Pendlerzug im Modelljahr 1985 4-türiges Hinteresfahrzeug B (Rosa)
+jpp_zug_Pendlerzug1985_Zwischen4_Rosa
+Pendlerzug im Modelljahr 1985 4-türiges Mittlerefahrzeug (Rosa)
+jpp_zug_Pendlerzug1985_Zwischen6_Rosa
+Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Rosa)
+#----DieselGueterwagen1960
+#----Diesel Gedeckter Güterwagen im Modelljahr 1960
+jpp_zug_DieselGueterwagen1960_Spielerfarbe1
+Diesel Gedeckter Güterwagen im Modelljahr 1960（Spielerfarbe 1）
+jpp_zug_DieselGueterwagen1960_Spielerfarbe2
+Diesel Gedeckter Güterwagen im Modelljahr 1960（Spielerfarbe 2）
 #_______________________________Vehicle-Auto____________________________________
 #_______________________________Straßenfahrzeuge________________________________
-#----BonnetBus1
-#----Bonnet-Bus 1
-jpp_auto_BonnetBus1_Spielerfarbe1
-Bonnet-Bus 1 (Spielerfarbe 1)
-jpp_auto_BonnetBus1_Spielerfarbe2
-Bonnet-Bus 1 (Spielerfarbe 2)
+#----BonnetBus1948
+#----Bonnet-Bus im Modelljahr 1960
+jpp_auto_BonnetBus1948_Spielerfarbe1
+Bonnet-Bus im Modelljahr 1960 (Spielerfarbe 1)
+jpp_auto_BonnetBus1948_Spielerfarbe2
+Bonnet-Bus im Modelljahr 1960 (Spielerfarbe 2)
 #----Linienbus1968
 #----Linienbus im Modelljahr 1968
 jpp_auto_Linienbus1968_Spielerfarbe1

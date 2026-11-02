@@ -5,7 +5,7 @@
 #                             Language: zh T Chinese                           #
 #                                Encoding: UTF-8                               #
 #                               Font : m+10r.bdf                               #
-#                            Date Created: 2026/10/31                          #
+#                            Date Created: 2026/11/02                          #
 #                                                                              #
 #                                   authors:                                   #
 #                          HAYASHIDA Kousei - HayaKoh                          #
@@ -932,172 +932,178 @@ jpp_roadsign_Strassenampel1970_links_white
 1970年式左側安裝的交通號誌（白色）
 #_______________________________Vehicle-Track___________________________________
 #_______________________________鐵路車輛________________________________________
-#----JNRPendlerzug1
-#----日本國鐵式通勤列車1
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Spielerfarbe1
-日本國鐵式通勤列車1 四門領頭車A（玩家色1）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Spielerfarbe1
-日本國鐵式通勤列車1 四門領頭車B（玩家色1）
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Spielerfarbe1
-日本國鐵式通勤列車1 四門後車A（玩家色1）
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Spielerfarbe1
-日本國鐵式通勤列車1 四門後車B（玩家色1）
-jpp_zug_JNRPendlerzug1_Zwischen4_Spielerfarbe1
-日本國鐵式通勤列車1 四門中間車（玩家色1）
-jpp_zug_JNRPendlerzug1_Zwischen6_Spielerfarbe1
-日本國鐵式通勤列車1 六門中間車（玩家色1）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Spielerfarbe2
-日本國鐵式通勤列車1 四門領頭車A（玩家色2）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Spielerfarbe2
-日本國鐵式通勤列車1 四門領頭車B（玩家色2）
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Spielerfarbe2
-日本國鐵式通勤列車1 四門後車A（玩家色2）
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Spielerfarbe2
-日本國鐵式通勤列車1 四門後車B（玩家色2）
-jpp_zug_JNRPendlerzug1_Zwischen4_Spielerfarbe2
-日本國鐵式通勤列車1 四門中間車（玩家色2）
-jpp_zug_JNRPendlerzug1_Zwischen6_Spielerfarbe2
-日本國鐵式通勤列車1 六門中間車（玩家色2）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Hellgluen
-日本國鐵式通勤列車1 四門領頭車A（鶯色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Hellgluen
-日本國鐵式通勤列車1 四門領頭車B（鶯色）
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Hellgluen
-日本國鐵式通勤列車1 四門後車A（鶯色）
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Hellgluen
-日本國鐵式通勤列車1 四門後車B（鶯色）
-jpp_zug_JNRPendlerzug1_Zwischen4_Hellgluen
-日本國鐵式通勤列車1 四門中間車（鶯色）
-jpp_zug_JNRPendlerzug1_Zwischen6_Hellgluen
-日本國鐵式通勤列車1 六門中間車（鶯色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Gluen
-日本國鐵式通勤列車1 四門領頭車A（綠色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Gluen
-日本國鐵式通勤列車1 四門領頭車B（綠色）
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Gluen
-日本國鐵式通勤列車1 四門後車A（綠色）
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Gluen
-日本國鐵式通勤列車1 四門後車B（綠色）
-jpp_zug_JNRPendlerzug1_Zwischen4_Gluen
-日本國鐵式通勤列車1 四門中間車（綠色）
-jpp_zug_JNRPendlerzug1_Zwischen6_Gluen
-日本國鐵式通勤列車1 六門中間車（綠色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Smaragd
-日本國鐵式通勤列車1 四門領頭車A（翠綠色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Smaragd
-日本國鐵式通勤列車1 四門領頭車B（翠綠色）
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Smaragd
-日本國鐵式通勤列車1 四門後車A（翠綠色）
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Smaragd
-日本國鐵式通勤列車1 四門後車B（翠綠色）
-jpp_zug_JNRPendlerzug1_Zwischen4_Smaragd
-日本國鐵式通勤列車1 四門中間車（翠綠色）
-jpp_zug_JNRPendlerzug1_Zwischen6_Smaragd
-日本國鐵式通勤列車1 六門中間車（翠綠色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Himmel
-日本國鐵式通勤列車1 四門領頭車A（天藍色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Himmel
-日本國鐵式通勤列車1 四門領頭車B（天藍色）
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Himmel
-日本國鐵式通勤列車1 四門後車A（天藍色）
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Himmel
-日本國鐵式通勤列車1 四門後車B（天藍色）
-jpp_zug_JNRPendlerzug1_Zwischen4_Himmel
-日本國鐵式通勤列車1 四門中間車（天藍色）
-jpp_zug_JNRPendlerzug1_Zwischen6_Himmel
-日本國鐵式通勤列車1 六門中間車（天藍色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Blau
-日本國鐵式通勤列車1 四門領頭車A（藍色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Blau
-日本國鐵式通勤列車1 四門領頭車B（藍色）
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Blau
-日本國鐵式通勤列車1 四門後車A（藍色）
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Blau
-日本國鐵式通勤列車1 四門後車B（藍色）
-jpp_zug_JNRPendlerzug1_Zwischen4_Blau
-日本國鐵式通勤列車1 四門中間車（藍色）
-jpp_zug_JNRPendlerzug1_Zwischen6_Blau
-日本國鐵式通勤列車1 六門中間車（藍色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Gelb
-日本國鐵式通勤列車1 四門領頭車A（黃色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Gelb
-日本國鐵式通勤列車1 四門領頭車B（黃色）
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Gelb
-日本國鐵式通勤列車1 四門後車A（黃色）
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Gelb
-日本國鐵式通勤列車1 四門後車B（黃色）
-jpp_zug_JNRPendlerzug1_Zwischen4_Gelb
-日本國鐵式通勤列車1 四門中間車（黃色）
-jpp_zug_JNRPendlerzug1_Zwischen6_Gelb
-日本國鐵式通勤列車1 六門中間車（黃色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Orange
-日本國鐵式通勤列車1 四門領頭車A（橙色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Orange
-日本國鐵式通勤列車1 四門領頭車B（橙色）
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Orange
-日本國鐵式通勤列車1 四門後車A（橙色）
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Orange
-日本國鐵式通勤列車1 四門後車B（橙色）
-jpp_zug_JNRPendlerzug1_Zwischen4_Orange
-日本國鐵式通勤列車1 四門中間車（橙色）
-jpp_zug_JNRPendlerzug1_Zwischen6_Orange
-日本國鐵式通勤列車1 六門中間車（橙色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Rot
-日本國鐵式通勤列車1 四門領頭車A（紅色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Rot
-日本國鐵式通勤列車1 四門領頭車B（紅色）
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Rot
-日本國鐵式通勤列車1 四門後車A（紅色）
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Rot
-日本國鐵式通勤列車1 四門後車B（紅色）
-jpp_zug_JNRPendlerzug1_Zwischen4_Rot
-日本國鐵式通勤列車1 四門中間車（紅色）
-jpp_zug_JNRPendlerzug1_Zwischen6_Rot
-日本國鐵式通勤列車1 六門中間車（紅色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Brawn
-日本國鐵式通勤列車1 四門領頭車A（棕色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Brawn
-日本國鐵式通勤列車1 四門領頭車B（棕色）
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Brawn
-日本國鐵式通勤列車1 四門後車A（棕色）
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Brawn
-日本國鐵式通勤列車1 四門後車B（棕色）
-jpp_zug_JNRPendlerzug1_Zwischen4_Brawn
-日本國鐵式通勤列車1 四門中間車（棕色）
-jpp_zug_JNRPendlerzug1_Zwischen6_Brawn
-日本國鐵式通勤列車1 六門中間車（棕色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Lila
-日本國鐵式通勤列車1 四門領頭車A（紫色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Lila
-日本國鐵式通勤列車1 四門領頭車B（紫色）
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Lila
-日本國鐵式通勤列車1 四門後車A（紫色）
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Lila
-日本國鐵式通勤列車1 四門後車B（紫色）
-jpp_zug_JNRPendlerzug1_Zwischen4_Lila
-日本國鐵式通勤列車1 四門中間車（紫色）
-jpp_zug_JNRPendlerzug1_Zwischen6_Lila
-日本國鐵式通勤列車1 六門中間車（紫色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypA_Rosa
-日本國鐵式通勤列車1 四門領頭車A（粉紅色）
-jpp_zug_JNRPendlerzug1_Fuehrendes4_TypB_Rosa
-日本國鐵式通勤列車1 四門領頭車B（粉紅色）
-jpp_zug_JNRPendlerzug1_Heck4_TypA_Rosa
-日本國鐵式通勤列車1 四門後車A（粉紅色）
-jpp_zug_JNRPendlerzug1_Heck4_TypB_Rosa
-日本國鐵式通勤列車1 四門後車B（粉紅色）
-jpp_zug_JNRPendlerzug1_Zwischen4_Rosa
-日本國鐵式通勤列車1 四門中間車（粉紅色）
-jpp_zug_JNRPendlerzug1_Zwischen6_Rosa
-日本國鐵式通勤列車1 六門中間車（粉紅色）
+#----Pendlerzug1985
+#----1985年式通勤列車
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Spielerfarbe1
+1985年式通勤列車 四門領頭車A（玩家色1）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Spielerfarbe1
+1985年式通勤列車 四門領頭車B（玩家色1）
+jpp_zug_Pendlerzug1985_Heck4_TypA_Spielerfarbe1
+1985年式通勤列車 四門後車A（玩家色1）
+jpp_zug_Pendlerzug1985_Heck4_TypB_Spielerfarbe1
+1985年式通勤列車 四門後車B（玩家色1）
+jpp_zug_Pendlerzug1985_Zwischen4_Spielerfarbe1
+1985年式通勤列車 四門中間車（玩家色1）
+jpp_zug_Pendlerzug1985_Zwischen6_Spielerfarbe1
+1985年式通勤列車 六門中間車（玩家色1）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Spielerfarbe2
+1985年式通勤列車 四門領頭車A（玩家色2）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Spielerfarbe2
+1985年式通勤列車 四門領頭車B（玩家色2）
+jpp_zug_Pendlerzug1985_Heck4_TypA_Spielerfarbe2
+1985年式通勤列車 四門後車A（玩家色2）
+jpp_zug_Pendlerzug1985_Heck4_TypB_Spielerfarbe2
+1985年式通勤列車 四門後車B（玩家色2）
+jpp_zug_Pendlerzug1985_Zwischen4_Spielerfarbe2
+1985年式通勤列車 四門中間車（玩家色2）
+jpp_zug_Pendlerzug1985_Zwischen6_Spielerfarbe2
+1985年式通勤列車 六門中間車（玩家色2）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Hellgluen
+1985年式通勤列車 四門領頭車A（鶯色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Hellgluen
+1985年式通勤列車 四門領頭車B（鶯色）
+jpp_zug_Pendlerzug1985_Heck4_TypA_Hellgluen
+1985年式通勤列車 四門後車A（鶯色）
+jpp_zug_Pendlerzug1985_Heck4_TypB_Hellgluen
+1985年式通勤列車 四門後車B（鶯色）
+jpp_zug_Pendlerzug1985_Zwischen4_Hellgluen
+1985年式通勤列車 四門中間車（鶯色）
+jpp_zug_Pendlerzug1985_Zwischen6_Hellgluen
+1985年式通勤列車 六門中間車（鶯色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Gluen
+1985年式通勤列車 四門領頭車A（綠色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Gluen
+1985年式通勤列車 四門領頭車B（綠色）
+jpp_zug_Pendlerzug1985_Heck4_TypA_Gluen
+1985年式通勤列車 四門後車A（綠色）
+jpp_zug_Pendlerzug1985_Heck4_TypB_Gluen
+1985年式通勤列車 四門後車B（綠色）
+jpp_zug_Pendlerzug1985_Zwischen4_Gluen
+1985年式通勤列車 四門中間車（綠色）
+jpp_zug_Pendlerzug1985_Zwischen6_Gluen
+1985年式通勤列車 六門中間車（綠色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Smaragd
+1985年式通勤列車 四門領頭車A（翠綠色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Smaragd
+1985年式通勤列車 四門領頭車B（翠綠色）
+jpp_zug_Pendlerzug1985_Heck4_TypA_Smaragd
+1985年式通勤列車 四門後車A（翠綠色）
+jpp_zug_Pendlerzug1985_Heck4_TypB_Smaragd
+1985年式通勤列車 四門後車B（翠綠色）
+jpp_zug_Pendlerzug1985_Zwischen4_Smaragd
+1985年式通勤列車 四門中間車（翠綠色）
+jpp_zug_Pendlerzug1985_Zwischen6_Smaragd
+1985年式通勤列車 六門中間車（翠綠色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Himmel
+1985年式通勤列車 四門領頭車A（天藍色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Himmel
+1985年式通勤列車 四門領頭車B（天藍色）
+jpp_zug_Pendlerzug1985_Heck4_TypA_Himmel
+1985年式通勤列車 四門後車A（天藍色）
+jpp_zug_Pendlerzug1985_Heck4_TypB_Himmel
+1985年式通勤列車 四門後車B（天藍色）
+jpp_zug_Pendlerzug1985_Zwischen4_Himmel
+1985年式通勤列車 四門中間車（天藍色）
+jpp_zug_Pendlerzug1985_Zwischen6_Himmel
+1985年式通勤列車 六門中間車（天藍色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Blau
+1985年式通勤列車 四門領頭車A（藍色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Blau
+1985年式通勤列車 四門領頭車B（藍色）
+jpp_zug_Pendlerzug1985_Heck4_TypA_Blau
+1985年式通勤列車 四門後車A（藍色）
+jpp_zug_Pendlerzug1985_Heck4_TypB_Blau
+1985年式通勤列車 四門後車B（藍色）
+jpp_zug_Pendlerzug1985_Zwischen4_Blau
+1985年式通勤列車 四門中間車（藍色）
+jpp_zug_Pendlerzug1985_Zwischen6_Blau
+1985年式通勤列車 六門中間車（藍色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Gelb
+1985年式通勤列車 四門領頭車A（黃色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Gelb
+1985年式通勤列車 四門領頭車B（黃色）
+jpp_zug_Pendlerzug1985_Heck4_TypA_Gelb
+1985年式通勤列車 四門後車A（黃色）
+jpp_zug_Pendlerzug1985_Heck4_TypB_Gelb
+1985年式通勤列車 四門後車B（黃色）
+jpp_zug_Pendlerzug1985_Zwischen4_Gelb
+1985年式通勤列車 四門中間車（黃色）
+jpp_zug_Pendlerzug1985_Zwischen6_Gelb
+1985年式通勤列車 六門中間車（黃色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Orange
+1985年式通勤列車 四門領頭車A（橙色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Orange
+1985年式通勤列車 四門領頭車B（橙色）
+jpp_zug_Pendlerzug1985_Heck4_TypA_Orange
+1985年式通勤列車 四門後車A（橙色）
+jpp_zug_Pendlerzug1985_Heck4_TypB_Orange
+1985年式通勤列車 四門後車B（橙色）
+jpp_zug_Pendlerzug1985_Zwischen4_Orange
+1985年式通勤列車 四門中間車（橙色）
+jpp_zug_Pendlerzug1985_Zwischen6_Orange
+1985年式通勤列車 六門中間車（橙色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Rot
+1985年式通勤列車 四門領頭車A（紅色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Rot
+1985年式通勤列車 四門領頭車B（紅色）
+jpp_zug_Pendlerzug1985_Heck4_TypA_Rot
+1985年式通勤列車 四門後車A（紅色）
+jpp_zug_Pendlerzug1985_Heck4_TypB_Rot
+1985年式通勤列車 四門後車B（紅色）
+jpp_zug_Pendlerzug1985_Zwischen4_Rot
+1985年式通勤列車 四門中間車（紅色）
+jpp_zug_Pendlerzug1985_Zwischen6_Rot
+1985年式通勤列車 六門中間車（紅色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Brawn
+1985年式通勤列車 四門領頭車A（棕色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Brawn
+1985年式通勤列車 四門領頭車B（棕色）
+jpp_zug_Pendlerzug1985_Heck4_TypA_Brawn
+1985年式通勤列車 四門後車A（棕色）
+jpp_zug_Pendlerzug1985_Heck4_TypB_Brawn
+1985年式通勤列車 四門後車B（棕色）
+jpp_zug_Pendlerzug1985_Zwischen4_Brawn
+1985年式通勤列車 四門中間車（棕色）
+jpp_zug_Pendlerzug1985_Zwischen6_Brawn
+1985年式通勤列車 六門中間車（棕色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Lila
+1985年式通勤列車 四門領頭車A（紫色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Lila
+1985年式通勤列車 四門領頭車B（紫色）
+jpp_zug_Pendlerzug1985_Heck4_TypA_Lila
+1985年式通勤列車 四門後車A（紫色）
+jpp_zug_Pendlerzug1985_Heck4_TypB_Lila
+1985年式通勤列車 四門後車B（紫色）
+jpp_zug_Pendlerzug1985_Zwischen4_Lila
+1985年式通勤列車 四門中間車（紫色）
+jpp_zug_Pendlerzug1985_Zwischen6_Lila
+1985年式通勤列車 六門中間車（紫色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypA_Rosa
+1985年式通勤列車 四門領頭車A（粉紅色）
+jpp_zug_Pendlerzug1985_Fuehrendes4_TypB_Rosa
+1985年式通勤列車 四門領頭車B（粉紅色）
+jpp_zug_Pendlerzug1985_Heck4_TypA_Rosa
+1985年式通勤列車 四門後車A（粉紅色）
+jpp_zug_Pendlerzug1985_Heck4_TypB_Rosa
+1985年式通勤列車 四門後車B（粉紅色）
+jpp_zug_Pendlerzug1985_Zwischen4_Rosa
+1985年式通勤列車 四門中間車（粉紅色）
+jpp_zug_Pendlerzug1985_Zwischen6_Rosa
+1985年式通勤列車 六門中間車（粉紅色）
+#----DieselGueterwagen1960
+#----1960年式內燃機棚車
+jpp_zug_DieselGueterwagen1960_Spielerfarbe1
+1960年式內燃機棚車（玩家色1）
+jpp_zug_DieselGueterwagen1960_Spielerfarbe2
+1960年式內燃機棚車（玩家色2）
 #_______________________________Vehicle-Auto____________________________________
 #_______________________________道路車輛________________________________________
-#----BonnetBus1
-#----引擎蓋巴士1
-jpp_auto_BonnetBus1_Spielerfarbe1
-引擎蓋巴士1（玩家色1）
-jpp_auto_BonnetBus1_Spielerfarbe2
-引擎蓋巴士1（玩家色2）
+#----BonnetBus1948
+#----1960年式引擎蓋巴士
+jpp_auto_BonnetBus1948_Spielerfarbe1
+1960年式引擎蓋巴士（玩家色1）
+jpp_auto_BonnetBus1948_Spielerfarbe2
+1960年式引擎蓋巴士（玩家色2）
 #----Linienbus1968
 #----1968年式路線巴士
 jpp_auto_Linienbus1968_Spielerfarbe1
