@@ -1092,10 +1092,14 @@ jpp_zug_Pendlerzug1985_Zwischen6_Rosa
 Pendlerzug im Modelljahr 1985 6-türiges Mittlerefahrzeug (Rosa)
 #----DieselGueterwagen1960
 #----Diesel Gedeckter Güterwagen im Modelljahr 1960
-jpp_zug_DieselGueterwagen1960_Spielerfarbe1
-Diesel Gedeckter Güterwagen im Modelljahr 1960（Spielerfarbe 1）
-jpp_zug_DieselGueterwagen1960_Spielerfarbe2
-Diesel Gedeckter Güterwagen im Modelljahr 1960（Spielerfarbe 2）
+jpp_zug_DieselGueterwagen1960_Sammelgut_Spielerfarbe1
+Diesel Gedeckter Güterwagen für Sammel im Modelljahr 1960（Spielerfarbe 1）
+jpp_zug_DieselGueterwagen1960_Sammelgut_Spielerfarbe2
+Diesel Gedeckter Güterwagen für Sammel im Modelljahr 1960（Spielerfarbe 2）
+jpp_zug_DieselGueterwagen1960_Kleinsendungen_Spielerfarbe1
+Diesel Gedeckter Güterwagen für Kleinsendungen im Modelljahr 1960（Spielerfarbe 1）
+jpp_zug_DieselGueterwagen1960_Kleinsendungen_Spielerfarbe2
+Diesel Gedeckter Güterwagen für Kleinsendungen im Modelljahr 1960（Spielerfarbe 2）
 #_______________________________Vehicle-Auto____________________________________
 #_______________________________Straßenfahrzeuge________________________________
 #----BonnetBus1948

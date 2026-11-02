@@ -1092,10 +1092,14 @@ jpp_zug_Pendlerzug1985_Zwischen6_Rosa
 1985年款通勤列车 六门中间车（粉色）
 #----DieselGueterwagen1960
 #----1960年款柴油机棚车
-jpp_zug_DieselGueterwagen1960_Spielerfarbe1
-1960年款柴油机棚车（玩家色1）
-jpp_zug_DieselGueterwagen1960_Spielerfarbe2
-1960年款柴油机棚车（玩家色2）
+jpp_zug_DieselGueterwagen1960_Sammelgut_Spielerfarbe1
+1960年款柴油机拼箱棚车（玩家色1）
+jpp_zug_DieselGueterwagen1960_Sammelgut_Spielerfarbe2
+1960年款柴油机拼箱棚车（玩家色2）
+jpp_zug_DieselGueterwagen1960_Kleinsendungen_Spielerfarbe1
+1960年款柴油机小件行李棚车（玩家色1）
+jpp_zug_DieselGueterwagen1960_Kleinsendungen_Spielerfarbe2
+1960年款柴油机小件行李棚车（玩家色2）
 #_______________________________Vehicle-Auto____________________________________
 #_______________________________道路车辆________________________________________
 #----BonnetBus1948

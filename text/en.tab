@@ -1092,10 +1092,14 @@ jpp_zug_Pendlerzug1985_Zwischen6_Rosa
 1985 model commuter train 6-door Middle car (pink)
 #----DieselGueterwagen1960
 #----1960 model diesel-powered covered freight wagon
-jpp_zug_DieselGueterwagen1960_Spielerfarbe1
-1960 model diesel-powered covered freight wagon（Player Color 1）
-jpp_zug_DieselGueterwagen1960_Spielerfarbe2
-1960 model diesel-powered covered freight wagon（Player Color 2）
+jpp_zug_DieselGueterwagen1960_Sammelgut_Spielerfarbe1
+1960 model diesel-powered covered mixed freight wagon（Player Color 1）
+jpp_zug_DieselGueterwagen1960_Sammelgut_Spielerfarbe2
+1960 model diesel-powered covered mixed freight wagon（Player Color 2）
+jpp_zug_DieselGueterwagen1960_Kleinsendungen_Spielerfarbe1
+1960 model diesel-powered covered parcel freight wagon（Player Color 1）
+jpp_zug_DieselGueterwagen1960_Kleinsendungen_Spielerfarbe2
+1960 model diesel-powered covered parcel freight wagon（Player Color 2）
 #_______________________________Vehicle-Auto____________________________________
 #_______________________________RoadVehicles____________________________________
 #----BonnetBus1948
