@@ -43,7 +43,7 @@ engine_type=diesel
 copyright=Lus;HayaKoh
 sound=train-start-diesel-h01.wav
 
-payload=7010
+payload=70
 speed=75
 power=135
 gear=188
