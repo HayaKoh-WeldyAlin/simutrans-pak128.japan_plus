@@ -1,7 +1,7 @@
 #1970年式重ダンプトラック（モデル：キャタピラー 789）
 #改造元：pak128（MHz様）
 -------------------------------------------------------------------------------
-#プレイヤーカラー1 混載
+#プレイヤーカラー1 ばら
 obj=vehicle
 name=jpp_auto_Schwerlastkipper1970_Spielerfarbe1
 waytype=road
@@ -16,7 +16,7 @@ gear=95
 weight=135
 
 cost=134545700
-runningcost=863
+runningcost=2645
 
 intro_year=1970
 intro_month=1

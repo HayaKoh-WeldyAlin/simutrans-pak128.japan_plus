@@ -17,7 +17,7 @@ gear=50
 weight=5
 
 cost=8226700
-RunningCost=104
+RunningCost=128
 
 intro_year=1989
 intro_month=5
@@ -52,7 +52,7 @@ gear=50
 weight=5
 
 cost=9466000
-RunningCost=113
+RunningCost=138
 
 intro_year=1989
 intro_month=5
@@ -87,7 +87,7 @@ gear=50
 weight=5
 
 cost=10705400
-RunningCost=121
+RunningCost=149
 
 intro_year=1989
 intro_month=5
@@ -122,7 +122,7 @@ gear=50
 weight=5
 
 cost=10271600
-RunningCost=118
+RunningCost=145
 
 intro_year=1989
 intro_month=5
@@ -157,7 +157,7 @@ gear=50
 weight=5
 
 cost=9466000
-RunningCost=113
+RunningCost=138
 
 intro_year=1989
 intro_month=5

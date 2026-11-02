@@ -16,7 +16,7 @@ gear=70
 weight=7
 
 cost=23896400
-RunningCost=124
+RunningCost=426
 
 intro_year=1988
 
@@ -49,7 +49,7 @@ gear=70
 weight=7
 
 cost=27252600
-RunningCost=132
+RunningCost=455
 
 intro_year=1988
 
@@ -82,7 +82,7 @@ gear=70
 weight=7
 
 cost=30608800
-RunningCost=141
+RunningCost=483
 
 intro_year=1988
 
@@ -115,7 +115,7 @@ gear=70
 weight=7
 
 cost=29434100
-RunningCost=138
+RunningCost=473
 
 intro_year=1988
 
@@ -148,7 +148,7 @@ gear=70
 weight=7
 
 cost=27252600
-RunningCost=132
+RunningCost=455
 
 intro_year=1988
 
