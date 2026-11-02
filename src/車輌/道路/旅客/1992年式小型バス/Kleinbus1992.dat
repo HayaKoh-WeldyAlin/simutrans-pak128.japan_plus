@@ -16,7 +16,7 @@ gear=71
 weight=3.7
 
 cost=4530400
-RunningCost=188
+RunningCost=160
 
 intro_year=1992
 intro_month=12
@@ -53,7 +53,7 @@ gear=71
 weight=3.7
 
 cost=4530400
-RunningCost=188
+RunningCost=160
 
 intro_year=1992
 intro_month=12

@@ -16,7 +16,7 @@ gear=71
 weight=5.8
 
 cost=4518100
-RunningCost=198
+RunningCost=158
 
 intro_year=2006
 intro_month=3
@@ -53,7 +53,7 @@ gear=71
 weight=5.8
 
 cost=4518100
-RunningCost=198
+RunningCost=158
 
 intro_year=2006
 intro_month=3
@@ -90,7 +90,7 @@ gear=71
 weight=5.4
 
 cost=4088800
-RunningCost=194
+RunningCost=155
 
 intro_year=2006
 intro_month=3
@@ -127,7 +127,7 @@ gear=71
 weight=5.4
 
 cost=4088800
-RunningCost=194
+RunningCost=155
 
 intro_year=2006
 intro_month=3
