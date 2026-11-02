@@ -1,10 +1,9 @@
 #1960年式有蓋気動貨車（モデル：国鉄キワ90型気動車）
 #改造元：国鉄 キワ90形（ラス様）
 -------------------------------------------------------------------------------
-#プレイヤーカラー1
--------------------------------------------------------------------------------
+#プレイヤーカラー1 混載
 obj=vehicle
-name=jpp_zug_DieselGueterwagen1960_Spielerfarbe1
+name=jpp_zug_DieselGueterwagen1960_Sammelgut_Spielerfarbe1
 waytype=track
 freight=catg_Sammelgut
 engine_type=diesel
@@ -35,10 +34,42 @@ EmptyImage[W]=DieselGueterwagen1960_Spielerfarbe1.0.5
 EmptyImage[NW]=DieselGueterwagen1960_Spielerfarbe1.0.6
 EmptyImage[NE]=DieselGueterwagen1960_Spielerfarbe1.0.7
 -------------------------------------------------------------------------------
-#プレイヤーカラー2
--------------------------------------------------------------------------------
+#プレイヤーカラー1 小荷物
 obj=vehicle
-name=jpp_zug_DieselGueterwagen1960_Spielerfarbe2
+name=jpp_zug_DieselGueterwagen1960_Kleinsendungen_Spielerfarbe1
+waytype=track
+freight=catg_Kleinsendungen
+engine_type=diesel
+copyright=Lus;HayaKoh
+sound=train-start-diesel-h01.wav
+
+payload=7010
+speed=75
+power=135
+gear=188
+weight=18
+
+cost=16937600
+RunningCost=9042
+
+intro_year=1960
+intro_month=3
+retire_year=1972
+
+length=6
+
+EmptyImage[S]=DieselGueterwagen1960_Spielerfarbe1.0.0
+EmptyImage[E]=DieselGueterwagen1960_Spielerfarbe1.0.1
+EmptyImage[SE]=DieselGueterwagen1960_Spielerfarbe1.0.2
+EmptyImage[SW]=DieselGueterwagen1960_Spielerfarbe1.0.3
+EmptyImage[N]=DieselGueterwagen1960_Spielerfarbe1.0.4
+EmptyImage[W]=DieselGueterwagen1960_Spielerfarbe1.0.5
+EmptyImage[NW]=DieselGueterwagen1960_Spielerfarbe1.0.6
+EmptyImage[NE]=DieselGueterwagen1960_Spielerfarbe1.0.7
+-------------------------------------------------------------------------------
+#プレイヤーカラー2 混載
+obj=vehicle
+name=jpp_zug_DieselGueterwagen1960_Sammelgut_Spielerfarbe2
 waytype=track
 freight=catg_Sammelgut
 engine_type=diesel
@@ -53,6 +84,39 @@ weight=18
 
 cost=15337200
 RunningCost=8274
+
+intro_year=1960
+intro_month=3
+retire_year=1972
+
+length=6
+
+EmptyImage[S]=DieselGueterwagen1960_Spielerfarbe2.0.0
+EmptyImage[E]=DieselGueterwagen1960_Spielerfarbe2.0.1
+EmptyImage[SE]=DieselGueterwagen1960_Spielerfarbe2.0.2
+EmptyImage[SW]=DieselGueterwagen1960_Spielerfarbe2.0.3
+EmptyImage[N]=DieselGueterwagen1960_Spielerfarbe2.0.4
+EmptyImage[W]=DieselGueterwagen1960_Spielerfarbe2.0.5
+EmptyImage[NW]=DieselGueterwagen1960_Spielerfarbe2.0.6
+EmptyImage[NE]=DieselGueterwagen1960_Spielerfarbe2.0.7
+-------------------------------------------------------------------------------
+#プレイヤーカラー2 小荷物
+obj=vehicle
+name=jpp_zug_DieselGueterwagen1960_Kleinsendungen_Spielerfarbe2
+waytype=track
+freight=catg_Kleinsendungen
+engine_type=diesel
+copyright=Lus;HayaKoh
+sound=train-start-diesel-h01.wav
+
+payload=70
+speed=75
+power=135
+gear=188
+weight=18
+
+cost=16937600
+RunningCost=9042
 
 intro_year=1960
 intro_month=3
